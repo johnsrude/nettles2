@@ -1,0 +1,59 @@
+.navbar {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #CCCCCC; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; height: 17px; color: #000000; word-spacing: 2px}
+.weather {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; background-color: #3366CC}
+.nav {  color: #3366CC; text-decoration: none}
+a.nav:link { color: #3366CC }
+a.nav:visited { color: #3366CC }
+a.nav:active { color: #666666}
+a.nav:hover { color: #FF0033}
+.headlinetop {  font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold; line-height: 24px}
+.storytop {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px}
+.headlinefront {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold}
+.storyfront {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.headlinesm {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+.heading {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #3366CC}
+.more { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold }
+a:link {  color: #003399;text-decoration:none;}
+a:visited {  color: #666666;text-decoration:none;}
+a:active {  color: #FF0033;text-decoration:none;}
+a:hover {  color: #0066CC;text-decoration:underline;}
+li {  font-size: 10px; color: #3366CC; list-style-type: square}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+hr {  font-size: 1px; color: #999999}
+.headinglg { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #3366CC }
+.box {  background-color: #CEE8F7}
+.topads_heading {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.headlineindex { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold ; line-height: 20px}
+.index {  padding-bottom: 10px; padding-left: 10px}
+.headlinedetail {  font-family: Arial, Helvetica, sans-serif; font-size: 20px; font-weight: bold}
+.storydetail { font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+.storydetail1 { font-family: Arial, Helvetica, sans-serif; font-size: 14px}
+.timestamp {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.bylinedetail { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold }
+.cutline {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+.photo {  padding-bottom: 5px; padding-left: 5px}
+.headlinesection {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold}
+.storysection { font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+.moresection {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; text-transform: uppercase}
+.links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.ads {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #999999; text-decoration: none}
+.icon {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; text-decoration: none; color: #2B54C9}
+a.icon:link { text-decoration: none; color: #2B54C9 }
+a.icon:visited { text-decoration: none; color: #2B54C9 }
+a.icon:active { text-decoration: none; color: #2B54C9 }
+a.icon:hover { text-decoration: none; color: #FF0033}
+body {  margin-top: 0px; margin-left: 10px}
+.text-sm { font-family: Arial, Helvetica, sans-serif; font-size: 10px }
+.photo-left { padding-bottom: 10px; padding-right: 10px}
+.cutlinered { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #993300}
+.heading-enter { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #993333}
+.col-left {  background-image: url(/art/paperbg.gif)}
+.navbarsm { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; background-color: #CCCCCC; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; height: 17px; color: #000000}
+.navcol { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: #CCCCCC; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; color: #000000; word-spacing: 2px ; line-height: 12px}
+.ds-title { font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #993333 }
+.ds-intro { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold}
+.ds-index { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.ds-body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px}
+.ds-category { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px ; font-weight: bold}
+.copyright {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.story { padding-left: 10px }
+.headingap { font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: bold; color: #007DC5; text-decoration: none}

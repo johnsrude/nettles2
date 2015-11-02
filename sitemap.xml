@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://www.thenettles.com/</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/Default.aspx</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/Shows.aspx</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/About.aspx</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/Media.aspx</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/Store.aspx</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/Contact.aspx</loc>
+    </url>
+    <url>
+        <loc>http://www.thenettles.com/GT20060520.htm</loc>
+    </url>
+</urlset>

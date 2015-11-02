@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="NettlesMasterPage.master.cs"
+    Inherits="NettlesMasterPage" %>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+<!-- Browser Icon -->
+<link rel="icon" href="img/nettles_icon.png" type="image/png" />
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+
+<!-- Facebook Icon -->
+<link rel="image_src" href="img/nettles_icon.png" type="image/png" />
+
+<!-- Styles -->
+<link rel="stylesheet" type="text/css" href="Theme/layout.css" media="all" />
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="Theme/ie6.css" media="all" />
+<![endif]-->
+
+<asp:ContentPlaceHolder ID="head" runat="server">
+</asp:ContentPlaceHolder>
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1804445-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="branding">
+        <img src="NettlesBanner.jpg" alt="The Nettles logo" id="banner_left" />
+        <h1>
+            The Nettles</h1>
+        <ul id="tagline">
+            <li>Celtic.</li>
+            <li>Acoustic.</li>
+            <li>Folkadelic.</li>
+        </ul>
+        <!-- <img src="NettlesBannerTag.jpg"" alt="Celtic. Acoustic. Folkadelic" id="banner_right"/> -->
+        <!-- search box in branding area? -->
+    </div>
+    <div id="menu">
+        <ul>
+            <li><a href="Default.aspx">Home</a></li>
+            <li><a href="Shows.aspx">Shows</a></li>
+            <li><a href="About.aspx">About</a></li>
+            <li><a href="Media.aspx">Media</a></li>
+            <li><a href="Store.aspx">Store</a></li>
+            <li><a href="Contact.aspx">Contact</a></li>
+            <!-- <li><a href="#">RSS</a></li> -->
+        </ul>
+    </div>
+    <div id="content">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div id="footer">
+        <p>
+            Copyright &copy; 2011-2014 by <a href="mailto:Kevin@TheNettles.com">Kevin Johnsrude</a>. All rights reserved.
+        </p>
+    </div>
+    </form>
+</body>
+</html>

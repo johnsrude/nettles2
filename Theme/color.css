@@ -1,0 +1,75 @@
+﻿
+/*------------------------------------- Global -------------------------------------*/
+
+body 
+{
+    background-color: Black;
+    color: White;
+}
+
+/*------------------------------------- Branding -------------------------------------*/
+
+div#branding 
+{
+        background-color: Black;
+}
+
+/* Tagline */
+div#branding ul
+{
+    color : White;
+}
+
+/*------------------------------------- Menu -------------------------------------*/
+
+div#menu
+{
+    background-color: #993366;
+}
+
+div#menu a
+{
+    color: White;
+    background-color: #993366;
+}
+
+div#menu a:hover
+{
+    background-color: #996699;
+}
+
+
+/************ Content ************/
+
+div#content a:link
+{
+    color: #993366;
+}
+
+div#content a:visited
+{
+    color: #996699;
+}
+
+
+/*------------------------------------- Main Content -------------------------------------*/
+
+/*------------------------------------- Sidebar -------------------------------------*/
+
+/*------------------------------------- Footer -------------------------------------*/
+
+div#footer
+{
+    border-color: #993366;
+}
+
+div#footer a:link
+{
+    color: #993366;
+}
+
+div#footer a:visited
+{
+    color: #996699;
+}
+

@@ -1,0 +1,349 @@
+﻿
+@import url(normalize.css);
+@import url(color.css);
+@import url(font.css);
+
+
+/*------------------------------------- Global -------------------------------------*/
+
+html
+{
+    text-align: center;
+}
+
+body
+{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+
+iframe
+{
+    display: block;
+}
+
+/*------------------------------------- Branding -------------------------------------*/
+
+div#branding
+{
+    width: 100%;
+    height: 120px;
+    /* position: relative; */
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: Black;
+    z-index: 10;
+}
+
+div#banner_left
+{
+    float: left;
+    width: 67%;
+    z-index: 10;
+}
+
+
+/* Tag line */
+div#branding ul
+{
+    position: absolute;
+    list-style: none;
+    bottom: 0px;
+    right: 0px;
+    text-align: right;
+}
+
+div#branding li
+{
+    margin-bottom: 0;
+}
+
+div#branding h1, div#branding p
+{
+    position: absolute;
+    top: -10px;
+    left: -80px;
+    text-indent: -9999px;
+}
+
+/*------------------------------------- Menu -------------------------------------*/
+
+div#menu
+{
+    width: 100%;
+    float: left;
+    padding-top : 120px;
+    list-style: none;
+}
+
+div#menu li
+{
+   display: inline;
+   padding-left: 50px;
+}
+
+div#menu a
+{
+    padding: 0x 50x;
+}
+
+/************ Content ************/
+
+div#content
+{
+    padding: 1.5em 1.5em 1.5em 1.5em;
+}
+
+div#content p, div#content li
+{
+    display:block;
+    margin-bottom: 1em;
+}
+
+
+
+/*------------------------------------- Main Content -------------------------------------*/
+
+div#main
+{
+    float: left;
+    width: 60%; 
+    padding: 1% 0% 1% 0%;
+}
+
+div#news li
+{
+   padding-top: 2em;
+   border-top-style: dashed;
+   border-top-color: Gray;
+   border-top-width:thin;
+}
+
+/************ Band ************/
+
+div#band
+{
+    margin-bottom: 2em;
+}
+
+div#band img
+{
+    float:left;
+    margin: 0em 1em 1em 1em;
+}
+
+/************ Photos ************/
+
+div#photos
+{
+    margin-bottom: 2em;
+}
+
+
+div#photos ul
+{
+    list-style: none;
+}
+
+div#photos li
+{
+    display:inline;
+    padding-left: 1em;
+}
+
+/************ Reviews ************/
+
+div#reviews img
+{
+    float: left;
+    padding: 0 1em 2em 0em;
+}
+
+div#reviews cite:before
+{
+    content: "  -- ";
+}
+
+
+
+/************ Store ************/
+
+div#store li
+{
+    display:inline;
+    padding-left: 3em;
+}
+
+/************ Music ************/
+
+div#music_player h4
+{
+    display: inline;
+    padding-bottom: 0;
+    padding-right: .5em;
+}
+
+
+/************ Twitter Feed ************/
+
+/*
+Twitter classes are:
+.twtr-popular
+.twtr-avatar
+.twtr-user
+.twtr-tweet-text
+.twtr-hashtag
+.twtr-doc
+.twtr-hd
+.twtr-ft
+.twtr-tweet
+
+*/
+
+/* #twtr-widget-1 .twtr-timeline i a, #twtr-widget-1 .twtr-bd p */
+
+.twtr-img, .twtr-popular, .twtr-avatar, .twtr-user, .twtr-hashtag, .twtr-hd, .twtr-ft
+{
+    display: none;
+}
+
+
+/*
+#twtr-widget-1 p
+{
+    margin-left: -2em;
+}
+
+#twtr-widget-1 .twtr-bd
+{
+   padding-top: 2em;
+   border-top-style: dashed;
+   border-top-color: Gray;
+   border-top-width:thin;
+}
+*/
+
+
+
+/*------------------------------------- Sidebar -------------------------------------*/
+
+div#sidebar 
+{
+    float: right;
+    width: 30%; 
+    padding: 1% 0% 1% 0%;
+}
+
+/************ Next Show ************/
+
+div#next_show
+{
+    padding-bottom: 1.5em;
+}
+
+
+/************ Members ************/
+
+/*
+div#members h3
+{
+    text-align: center;
+    display: none;
+}
+*/
+
+div#members img
+{
+    width: 150px;
+    float: left;
+    margin: 1em 1em 1em 1em;
+    
+    /* clear: both;
+    margin: 1em 1em 1em 30%; */
+}
+
+
+div#members p
+{
+    margin-bottom: 1em;
+    font-size: .8em;
+    font-style: italic;
+}
+ 
+div#members li
+{
+    border-bottom: 1px dashed white;
+}
+
+/************ Subscribe ************/
+
+/************ Videos ************/
+
+#containingBlock {
+	width: 50%;
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 25px;
+	height: 0;
+}
+* html .videoWrapper {
+  margin-bottom: 45px;
+}
+.videoWrapper div,
+.videoWrapper object {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/************ Store (sidebar) ************/
+
+div#store_sidebar li
+{
+    display: inline;
+}
+
+div#store_sidebar img
+{
+    margin-right: 1em;
+}
+
+/************ Stay in Touch ************/
+
+div#links img
+{
+    margin-right: 1em;
+}
+
+/************ Listen ************/
+
+div#music_player img
+{
+    margin-right: 1em;
+}
+
+/************ Reviews (sidebar) ************/
+
+div#reviews_sidebar cite:before
+{
+    content: " -- ";
+}
+
+
+/*------------------------------------- Footer -------------------------------------*/
+
+div#footer
+{
+    border-top-width: thin;
+    border-top-style:double;
+    clear: both;
+    width: 100%;
+    text-align:center;
+}
