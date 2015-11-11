@@ -10,15 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Friday, September 19, 8:30pm, Corvallis, OR</h3>
-                    "Halfway to St. Patrick's" party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    Street, 541.753.9900. </li>
-                <li>
-                    <h3>Saturday, October 3, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: <a href="http://woodylanecaller.com/">Woody Lane</a></li>
-                <li>
                     <h3>Friday, November 20, 8pm, Santa Rosa, CA</h3>
                     <a href="http://www.nbcds.org/">North Bay Country Dance Society</a>
                     Contra Dance, Monroe Hall, 1400 W. College Avenue. Lesson at 7:30pm. 
@@ -34,6 +25,11 @@
                     <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
                     lesson at 7:30pm. Caller: Lindsey Dono</li>
+                <li>
+                    <h3>Saturday, December 19, 9pm, Corvallis, OR</h3>
+                    <a href="http://www.bombsawaycafe.com/">Bombs Away Cafe</a> 
+                    with <a href="http://eldiablitos.bandcamp.com">El Diabilitos</a>,
+                    2527 NW Monroe Ave., Corvallis, OR 97330. (541) 757-7221</li>
                 <li>
                     <h3>Saturday, January 9, 8pm, Portland, OR</h3>
                     <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
@@ -93,6 +89,15 @@
                     <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion</li>
             </ul>
             <!-- ------------------------------------------------------------------------------------
+                <li>
+                    <h3>Friday, September 19, 8:30pm, Corvallis, OR</h3>
+                    "Halfway to St. Patrick's" party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
+                    Street, 541.753.9900. </li>
+                <li>
+                    <h3>Saturday, October 3, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7:30pm. Caller: <a href="http://woodylanecaller.com/">Woody Lane</a></li>
                 <li>
                     <h3>
                         Saturday, January 31, 8pm, Corvallis, OR</h3>
