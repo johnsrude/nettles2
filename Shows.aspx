@@ -71,7 +71,9 @@
                 </li>
                 <li>
                     <h3>Saturday, April 16, Monterey, CA</h3>
-                    <a href="http://montereycdc.webs.com">Monterey Country Dance Community's</a> Spring Fling 
+                    <a href="http://montereycdc.webs.com">Monterey Country Dance Community's</a> 
+                    <a href="http://montereycdc.webs.com/apps/calendar/showEvent?calID=3328920&eventID=259752668&next=showMonth%3fcalID%3d3328920%26year%3d2016%26month%3d3">Spring Fling</a>
+                    with Joyride and BLAM! Callers: Jean Gibson-Gorrindo, Warren Blier 
                 </li>
 
                 <li>
