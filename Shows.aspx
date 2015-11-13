@@ -71,7 +71,7 @@
                 </li>
                 <li>
                     <h3>Saturday, April 16, Monterey, CA</h3>
-                    <a href="montereycdc.webs.com">Monterey Country Dance Community's</a> Spring Fling 
+                    <a href="http://montereycdc.webs.com">Monterey Country Dance Community's</a> Spring Fling 
                 </li>
 
                 <li>
