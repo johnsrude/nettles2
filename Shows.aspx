@@ -10,45 +10,25 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Friday, November 20, 8pm, Santa Rosa, CA</h3>
-                    <a href="http://www.nbcds.org/">North Bay Country Dance Society</a>
-                    Contra Dance, Monroe Hall, 1400 W. College Avenue. Lesson at 7:30pm. 
-                    Caller: Frannie Marr </li>
-                <li>
-                    <h3>Saturday, November 21, Hayward, CA</h3>
-                    <a href="https://sites.google.com/site/haywardcontra/home/tdogs-12-hour-twirl">12 Hour Twirl</a> Contra Dance,
-                     Hayward Veterans Memorial Building, 22737 Main Street, Hayward, CA with 
-                    <a href="https://www.facebook.com/ContraSutra">Contra Sutra</a>.
-                     Callers: Susan Petrick, Frannie Marr</li>
-                <li>
-                    <h3>Saturday, December 5, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: Lindsey Dono</li>
-                <li>
-                    <h3>Saturday, December 19, 9pm, Corvallis, OR</h3>
-                    <a href="http://www.bombsawaycafe.com/">Bombs Away Cafe</a> 
-                    with <a href="http://eldiablitos.bandcamp.com">El Diabilitos</a>,
-                    2527 NW Monroe Ave., Corvallis, OR 97330. (541) 757-7221</li>
-                <li>
                     <h3>Saturday, January 9, 8pm, Portland, OR</h3>
                     <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
                     Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
                     Caller: Amy Carroll</li>
                 <li>
                     <h3>Saturday, January 16, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: TBD</li>
+                    lesson at 7:30pm. Caller: William Watson</li>
                 <li>
                     <h3>Saturday, February 27, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.efn.org/~efs">Eugene Folklore Society</a> Contra Dance, Gym
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm. Caller: TBD</li>
+                    Beginner&rsquo;s lesson at 7pm. Caller: William Watson</li>
                 <li>
                     <h3>Thursday, March 10, 8pm, Corvallis, OR</h3>
-                    Contra Dance, Memorial Union Ballroom, Oregon State University. 
-                    Caller: TBD
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7:30pm. Caller: Woody Lane
                 </li>
                 <li>
                     <h3>Sunday, March 13, Milwaukie, OR</h3>
@@ -56,7 +36,7 @@
                     Milwaukie Community Club, 10666 SE 42nd Ave. Caller: TBD
                 </li>
                 <li>
-                    <h3>Thursday, March 17, 8pm, Corvallis, OR</h3>
+                    <h3>Thursday, March 17, 9pm, Corvallis, OR</h3>
                     St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
                     Street, 541.753.9900. </li>
 
@@ -82,15 +62,31 @@
                 </li>
                 <li>
                     <h3>Saturday, June 4, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: TBD</li>
+                    lesson at 7:30pm. Caller: Lindsey Miller Dono</li>
 
                 <li>
                     <h3>July 8-10, Veneta, OR</h3>
                     <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion</li>
             </ul>
             <!-- ------------------------------------------------------------------------------------
+                <li>
+                    <h3>Saturday, December 19, 9pm, Corvallis, OR</h3>
+                    <a href="http://www.bombsawaycafe.com/">Bombs Away Cafe</a> 
+                    with <a href="http://eldiablitos.bandcamp.com">El Diabilitos</a>,
+                    2527 NW Monroe Ave., Corvallis, OR 97330. (541) 757-7221</li>
+                <li>
+                    <h3>Friday, November 20, 8pm, Santa Rosa, CA</h3>
+                    <a href="http://www.nbcds.org/">North Bay Country Dance Society</a>
+                    Contra Dance, Monroe Hall, 1400 W. College Avenue. Lesson at 7:30pm. 
+                    Caller: Frannie Marr </li>
+                <li>
+                    <h3>Saturday, November 21, Hayward, CA</h3>
+                    <a href="https://sites.google.com/site/haywardcontra/home/tdogs-12-hour-twirl">12 Hour Twirl</a> Contra Dance,
+                     Hayward Veterans Memorial Building, 22737 Main Street, Hayward, CA with 
+                    <a href="https://www.facebook.com/ContraSutra">Contra Sutra</a>.
+                     Callers: Susan Petrick, Frannie Marr</li>
                 <li>
                     <h3>Friday, September 19, 8:30pm, Corvallis, OR</h3>
                     "Halfway to St. Patrick's" party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
@@ -120,13 +116,6 @@
                     lesson at 7:30pm. Caller: Kelsey Hartman</li>
                 <li>
                     <h3>
-                        Friday-Saturday, July 24-26, Springfield, OR</h3>
-                    <a href="http://eugenefolklore.org/madness.html">MidSummer Madness</a> dance weekend,
-                    "Our Odd Camp in Odd Years" at <a href="http://www.livingwaterscamp.net/">Living Waters
-                        Camp</a>. Caller: <a href="http://family-dance.com/">Susan Michaels</a>.
-                </li>
-                <li>
-                    <h3>
                         Sunday, September 28, 2-7pm, Salem, OR</h3>
                     <a href="http://eradicationbymastication.org/">Invasive Species Cook-Off</a> at
                     <a href="http://www.zenithvineyard.com/">Zenith Vinyard</a></li>
@@ -136,13 +125,6 @@
                     <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
                     lesson at 7:30pm. Caller: Tarka Ayres</li>
-                <li>
-                    <h3>
-                        Saturday, November 22, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.efn.org/~efs">Eugene Folklore Society</a> Contra Dance, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7:30pm. Caller: <a href="http://woodylanecaller.com/">Woody
-                        Lane</a></li>
                 <li>
                     <h3>
                         Saturday, December 13, 8pm, Portland, OR</h3>
@@ -880,12 +862,6 @@
                     Caller: Susan Petrick
 
                     <li>
-                    <h3>Thursday, July 23, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.efn.org/~efs">Eugene Folklore Society</a> 
-                     Contra Dance, Agate Hall, University of Oregon, 1787 Agate Street.
-                    Caller: Seth Tepfer
-
-                    <li>
                     <h3>Friday-Saturday, July 24-26, <a href="http://www.campwhitebranch.com/">Camp White Branch</a>, OR</h3> 
                     <a href="http://www.efn.org/~efs/MidsummerMadness.html">MidSummer Madness</a> dance weekend. 
                     Caller: Seth Tepfer
@@ -929,7 +905,7 @@
                 <li>"Culture Shock!" festival, <a href="http://www.coastarts.org/pac/">Newport Performing
                     Arts Center</a> Newport, OR </li>
                 <li><a href="http://www.davinci-days.org/">DaVinci Days</a>, Corvallis, OR </li>
-                <li><a href="http://http://www.efn.org/~efs/">Eugene Folklore Society</a> contra dance</li>
+                <li><a href="http://www.eugenefolklore.org/">Eugene Folklore Society</a> contra dance</li>
                 <li><a href="http://www.eugeneirishfest.org/">Eugene Irish Cultural Festival</a></li>
                 <li><a href="http://www.fridaynightdance.org">Glen Echo, MD Friday Night Dance</a>
                 </li>
