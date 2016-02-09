@@ -10,16 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, January 9, 8pm, Portland, OR</h3>
-                    <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
-                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
-                    Caller: Amy Carroll</li>
-                <li>
-                    <h3>Saturday, January 16, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: William Watson</li>
-                <li>
                     <h3>Saturday, February 27, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
@@ -36,14 +26,18 @@
                     Milwaukie Community Club, 10666 SE 42nd Ave. Caller: TBD
                 </li>
                 <li>
+                    <h3>Thursday, March 17, 4pm, Corvallis, OR</h3>
+                    St Patrick's Day Beer Garden at <a href="http://cloudandkellys.com/">McMenamins Corvallis Pub</a>, 
+                    420 NW Third St., (541) 758-6044. </li>
+                <li>
                     <h3>Thursday, March 17, 9pm, Corvallis, OR</h3>
                     St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    Street, 541.753.9900. </li>
+                    St., 541.753.9900. </li>
 
                 <li>
                     <h3>April 8-10, Fall Creek, OR</h3>
                     <a href="http://eugenefolklore.org/CascadeContras/">Cascade Contras</a> at  <a href="http://eugenefolklore.org/CascadeContras/venue/">Sky Camp</a>.
-                    with <a href="http://www.notoriousfolk.com/index.html">Notorious</a>. Callers: Cis Hinkle, Lindsey Dono
+                    with <a href="http://www.notoriousfolk.com/index.html">Notorious</a>. Callers: Cis Hinkle, Lindsey Miller Dono
                 </li>
                 <li>
                     <h3>Friday, April 15, 7pm, Monterey, CA</h3>
@@ -72,6 +66,16 @@
             </ul>
             <!-- ------------------------------------------------------------------------------------
                 <li>
+                    <h3>Saturday, January 9, 8pm, Portland, OR</h3>
+                    <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
+                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
+                    Caller: Amy Carroll</li>
+                <li>
+                    <h3>Saturday, January 16, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7:30pm. Caller: William Watson</li>
+                <li>
                     <h3>Saturday, December 19, 9pm, Corvallis, OR</h3>
                     <a href="http://www.bombsawaycafe.com/">Bombs Away Cafe</a> 
                     with <a href="http://eldiablitos.bandcamp.com">El Diabilitos</a>,
@@ -79,18 +83,18 @@
                 <li>
                     <h3>Friday, November 20, 8pm, Santa Rosa, CA</h3>
                     <a href="http://www.nbcds.org/">North Bay Country Dance Society</a>
-                    Contra Dance, Monroe Hall, 1400 W. College Avenue. Lesson at 7:30pm. 
+                    Contra Dance, Monroe Hall, 1400 W. College Ave.. Lesson at 7:30pm. 
                     Caller: Frannie Marr </li>
                 <li>
                     <h3>Saturday, November 21, Hayward, CA</h3>
                     <a href="https://sites.google.com/site/haywardcontra/home/tdogs-12-hour-twirl">12 Hour Twirl</a> Contra Dance,
-                     Hayward Veterans Memorial Building, 22737 Main Street, Hayward, CA with 
+                     Hayward Veterans Memorial Building, 22737 Main St., Hayward, CA with 
                     <a href="https://www.facebook.com/ContraSutra">Contra Sutra</a>.
                      Callers: Susan Petrick, Frannie Marr</li>
                 <li>
                     <h3>Friday, September 19, 8:30pm, Corvallis, OR</h3>
                     "Halfway to St. Patrick's" party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    Street, 541.753.9900. </li>
+                    St., 541.753.9900. </li>
                 <li>
                     <h3>Saturday, October 3, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/">Corvallis Folklore Society</a> Contra Dance,
@@ -106,7 +110,7 @@
                     <h3>
                         Tuesday, March 17, 8pm, Corvallis, OR</h3>
                     St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    Street, 541.753.9900. </li>
+                    St., 541.753.9900. </li>
 
                 <li>
                     <h3>
@@ -167,7 +171,7 @@
                     <h3>
                         Sunday, March 9, 5pm,  Milwaukie, OR</h3>
                      <a href="http://portlandroadhouse.org">Portland Roadhouse</a>.
-                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: Lindsey Dono.
+                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: Lindsey Miller Dono.
                     </li>
 
 
@@ -175,20 +179,20 @@
                     <h3>
                         Friday, March 28, 8pm, San Francisco, CA</h3>
                     <a href="http://www.bacds.org">Bay Area Country Dance Society</a> Contra Dance,
-                    St. Paul's Presbyterian Church, 1399 43rd Avenue, (corner of 43rd Avenue and Judah
-                    Street). Beginner&rsquo;s lesson at 7:30pm. Caller: Jeremy Korr</li>
+                    St. Paul's Presbyterian Church, 1399 43rd Ave., (corner of 43rd Ave. and Judah
+                    St.). Beginner&rsquo;s lesson at 7:30pm. Caller: Jeremy Korr</li>
                 <li>
                     <h3>
                         Saturday, March 29, 8pm, Palo Alto, CA</h3>
                     <a href="http://www.bacds.org">Bay Area Country Dance Society</a> Contra Dance,
-                    First United Methodist Church, 625 Hamilton Avenue (Near Middlefield Rd), (upstairs
+                    First United Methodist Church, 625 Hamilton Ave. (Near Middlefield Rd), (upstairs
                     in the boxy Social Hall building on the corner at Byron St.). Beginner&rsquo;s lesson
                     at 7:30pm. Caller: Jeremy Korr</li>
                 <li>
                     <h3>
                         Sunday, March 30, 4pm, Hayward, CA</h3>
                     <a href="https://sites.google.com/site/haywardcontra/">Traditional Dancers of the Golden
-                        State</a> Contra Dance, Hill and Valley Club, 1808 B Street (Corner of B St
+                        State</a> Contra Dance, Hill and Valley Club, 1808 B St. (Corner of B St
                     & Linden St). Caller: Jeremy Korr</li>
 
 
@@ -210,7 +214,7 @@
                     <h3>
                         Friday, January 24, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org//bestcellar/">Best Cellar Coffeehouse,</a>First United
-                    Methodist Church, 1165 NW Monroe Avenue. Admission is on a sliding scale of $2 to
+                    Methodist Church, 1165 NW Monroe Ave.. Admission is on a sliding scale of $2 to
                     $10 (kids are free). </li>
 
                 <li>
@@ -222,13 +226,13 @@
                     <h3>
                         Friday, September 21, 5-7pm, Corvallis, OR</h3>
                     <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    Street, 541.753.9900. </li>
+                    St., 541.753.9900. </li>
 
                 <li>
                     <h3>
                         Saturday, September 29, 8pm, Santa Rosa, CA</h3>
                     <a href="http://www.nbcds.org/">North Bay Country Dance Society</a> "Challenging
-                    Contra" Dance, Monroe Hall, 1400 W. College Avenue. Not for beginners. 
+                    Contra" Dance, Monroe Hall, 1400 W. College Ave.. Not for beginners. 
                     Caller: <a href="http://woodylanecaller.com/">Woody Lane</a> </li>
                 <li>
                     <h3>
@@ -282,7 +286,7 @@
                     <h3>
                         Saturday, April 30, 7:30pm, Salem, OR</h3>
                     Fifth Saturday Contra Dance, Unitarian Universalist Congregation of
-                    Salem, 5090 Center Street NE, Salem, OR 97317 
+                    Salem, 5090 Center St. NE, Salem, OR 97317 
                     Caller: Sue Baker</li>
 
                 <li>
@@ -323,7 +327,7 @@
                     <li>
                     <h3>Friday, March 5, 6-8pm, Corvallis, OR</h3> "
                     <a href="http://calendar.oregonstate.edu/event/36689/">Empty Bowls"</a>
-                     benefit for OSU Emergency Food Pantry and World of Good. OSU Valley Football Center, 724 SW 30th Street
+                     benefit for OSU Emergency Food Pantry and World of Good. OSU Valley Football Center, 724 SW 30th St.
                     </li>
 
                     <li>
@@ -349,7 +353,7 @@
 
                     <li>
                     <h3>Saturday, March 13, (St. Paturday), 7-9pm, Portland, OR</h3> 
-                    <a href="http://www.myspace.com/albertastreetpub">Alberta Street Pub</a>, 
+                    <a href="http://www.myspace.com/albertaSt.pub">Alberta St. Pub</a>, 
                      1036 NE Alberta St. 503-754-6958.
                     </li>
 
@@ -358,14 +362,14 @@
                     <h3>Friday, October 2, 7pm, Salem, OR</h3> Concert at
                     Loucks Auditorium, 
                     <a href="http://www.cityofsalem.net/Departments/Library">Salem Public Library</a>, 
-                    <a href="http://www.cityofsalem.net/Departments/Library/About%20Us/Pages/CentralLibrary.aspx">585 Liberty Street SE</a>.  
+                    <a href="http://www.cityofsalem.net/Departments/Library/About%20Us/Pages/CentralLibrary.aspx">585 Liberty St. SE</a>.  
                     </li>
 
                     <li>
                     <h3>Thursday, October 8, 6:30pm, Eugene, OR</h3> 
                     Benefit for 
                     <a href="http://www.bufordpark.org">Friends of Buford Park and Mt. Pisgah.</a>
-                    Veterans Memorial Building ballroom, 1626 Willamette Street. $5-25 donation suggested.
+                    Veterans Memorial Building ballroom, 1626 Willamette St.. $5-25 donation suggested.
                     </li>
 
                     <li>
@@ -412,7 +416,7 @@
 
 
                     <li>
-                    <h3>Sunday, September 6, 6pm, Corvallis, OR</h3><a href="http://www.southtownstreetparty.com">Southtown Street Party</a> benefit for "That&rsquo;s My Farmer!" food assistance program. 
+                    <h3>Sunday, September 6, 6pm, Corvallis, OR</h3><a href="http://www.southtownSt.party.com">Southtown St. Party</a> benefit for "That&rsquo;s My Farmer!" food assistance program. 
                     <a href="http://www.fireworksvenue.com">FireWorks Restaurant & Bar</a>
                      1115 South Third St (Hwy 99W next to First Alternative Coop), 754-6958. Suggested donation $5-10.
 
@@ -438,7 +442,7 @@
                     </li>
 
                     <li>
-                    <h3>Tuesday, January 20, 7-8:30pm, Corvallis, OR</h3> Benton County Democrats Inaugural Ball Contra Dance, Corvallis Senior Center, 2601 NW Tyler Street (at 27th). Caller: Todd Silverstein.
+                    <h3>Tuesday, January 20, 7-8:30pm, Corvallis, OR</h3> Benton County Democrats Inaugural Ball Contra Dance, Corvallis Senior Center, 2601 NW Tyler St. (at 27th). Caller: Todd Silverstein.
                     </li>
 
                     <li>
@@ -448,7 +452,7 @@
 
 
                     <li>
-                    <h3>Saturday, February 14, 8-10:30pm, Newport, OR</h3> <a href="http://nanasirishpub.com">Nana&rsquo;s Irish Pub</a>, 613 NW 3rd Street. Free, but tips welcome.
+                    <h3>Saturday, February 14, 8-10:30pm, Newport, OR</h3> <a href="http://nanasirishpub.com">Nana&rsquo;s Irish Pub</a>, 613 NW 3rd St.. Free, but tips welcome.
                     </li>
 
                     <li>
@@ -462,7 +466,7 @@
                     </li>
 
                     <li>
-                    <h3>Sunday, August 24, 1pm, Corvallis, OR</h3><a href="http://www.southtownstreetparty.com">Southtown Street Party</a> benefit for South Corvallis Food Bank,  
+                    <h3>Sunday, August 24, 1pm, Corvallis, OR</h3><a href="http://www.southtownSt.party.com">Southtown St. Party</a> benefit for South Corvallis Food Bank,  
                     <a href="http://www.fireworksvenue.com">FireWorks Restaurant & Bar</a>
                      1115 South Third St (Hwy 99W next to First Alternative Coop), 754-6958. Suggested donation $5-10.
 
@@ -515,11 +519,11 @@
                     <a href="pers.html#ankush">Ankush</a>. 
                     "Culture Shock!" festival, 
                     <a href="http://www.coastarts.org/pac/">Newport Performing Arts Center</a>, 
-                    777 W Olive Street. 
+                    777 W Olive St.. 
 
                     <li>
                     <h3>Wednesday, August 15, 7pm, Monmouth, OR</h3> 
-                    "Wednesday in the Park" concert series, Main Street Park, Main and Warner.
+                    "Wednesday in the Park" concert series, Main St. Park, Main and Warner.
                     </li>
 
                     <li>
@@ -643,7 +647,7 @@
                     <a href="http://www.flinns.com">
                     Flinn&rsquo;s Living History Theater,
                     </a>
-                    222 First Avenue SW, (541)928-5008 or 1-800-636-5008.  Dinner & show at 6:15pm, Show only at 7pm. FMI:
+                    222 First Ave. SW, (541)928-5008 or 1-800-636-5008.  Dinner & show at 6:15pm, Show only at 7pm. FMI:
                     <a href="mailto:info@flinns.com">info@flinns.com</a>
 
                     <li>
@@ -712,14 +716,14 @@
                     <h3>Friday, March 6, 7:30pm, Corvallis, OR</h3> Worldbeat jam with tabla player
                     <a href="pers.html#ankush">Ankush Vimawala</a>. 
                     <a href="http://osumu.org/events/escape2.htm">escape</a> night club, 
-                    OSU campus, across street from Valley Library next to Waldo on the brick mall. 740-0469.
+                    OSU campus, across St. from Valley Library next to Waldo on the brick mall. 740-0469.
 
 
                     <h2 ALIGN=CENTER><font size=+2 COLOR="#0AD1A0">May</font></h2>
 
                     <h3>Saturday, May 10, 8 pm, Salem, OR</h3>
                     Laura and Kevin of The Nettles with Tim Crosby, Brad Johnson, Roy Rowland and Jon Neff, 
-                    Tom Creelan Memorial Contra Dance, Montag Center, 12th Street between State and Bellevue, 
+                    Tom Creelan Memorial Contra Dance, Montag Center, 12th St. between State and Bellevue, 
                     Willamette University 
                     (
                     <a href="http://www.willamette.edu/wu_map_print.pdf">Map</a>
@@ -755,7 +759,7 @@
                     <a href="pers.html#kevin">Kevin</a> 
                     and
                     <a href="pers.html#ankush">Ankush</a>. 
-                    Celtic worldbeat for "Wednesday in the Park" concert series, Main Street Park, Main and Warner.
+                    Celtic worldbeat for "Wednesday in the Park" concert series, Main St. Park, Main and Warner.
                     <li>
 
                     <h3>Friday-Saturday, July 25-26, Port Orchard, WA</h3> 
@@ -781,9 +785,9 @@
                     </a>, 
                     Saint Martin&rsquo;s College Pavilion. 
                     <font size=-1>Directions: From 1-5 north (Seattle): Take Exit 109 (Martin Way). Turn right onto Martin Way. 
-                    Turn left onto College Street. Turn left onto Pacific Avenue. Turn left into Saint Martin&rsquo;s Pavilion. 
-                    From 1-5 south (Olympia/Portland): Take Exit 108 (College Street). Turn right onto College Street. 
-                    Turn left onto Pacific Avenue. Turn left into Saint Martin&rsquo;s Pavilion.</font>
+                    Turn left onto College St.. Turn left onto Pacific Ave.. Turn left into Saint Martin&rsquo;s Pavilion. 
+                    From 1-5 south (Olympia/Portland): Take Exit 108 (College St.). Turn right onto College St.. 
+                    Turn left onto Pacific Ave.. Turn left into Saint Martin&rsquo;s Pavilion.</font>
                     <li>
 
                     <h3>Thursday, February 19, 8pm, Portland, OR</h3>
@@ -815,7 +819,7 @@
                     <a href="http://www.seattledance.org/contra/tacoma.html">
                     Tacoma Old Time Dance 
                     </a>, 
-                    Wells Hall, 310 North K Street.
+                    Wells Hall, 310 North K St..
                     <a href="http://www.seattledance.org/contra/tacoma.html">(Directions)</a>
                     Beginner&rsquo;s lesson at 7:30.  
                     Caller: Elinor Preston.
@@ -851,7 +855,7 @@
                     Turn right onto Center St. (stoplight). 
                     Look for small golf course. (Auburn Center Golf). 
                     Go to the 3rd house past the Golf Course. 
-                    Turn in the driveway and park in the pasture or don&rsquo;t turn in the driveway and park on the street or at the golfcourse.
+                    Turn in the driveway and park in the pasture or don&rsquo;t turn in the driveway and park on the St. or at the golfcourse.
                     <br>FMI: <a href="mailto:sharonmooree@comcast.net">Sharon Moore</a>,  sharonmooree@comcast.net,  503-364-6713.
 
 
