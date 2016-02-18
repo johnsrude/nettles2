@@ -21,9 +21,15 @@
                     lesson at 7:30pm. Caller: Woody Lane
                 </li>
                 <li>
-                    <h3>Sunday, March 13, Milwaukie, OR</h3>
+                    <h3>Saturday, March 12, 3-7pm, Corvallis, OR</h3>
+                    <a href="https://www.facebook.com/RhapsodyInTheVineyard/">Rhapsody in the Vineyard</a> wine walk,
+                    Odd Fellows Hall, 223 SW 2nd St.
+                </li>
+
+                <li>
+                    <h3>Sunday, March 13, 5:25pm, Milwaukie, OR</h3>
                     <a href="http://portlandroadhouse.org">Portland Roadhouse</a>.
-                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: TBD
+                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: Marlin Prowell
                 </li>
                 <li>
                     <h3>Thursday, March 17, 4pm, Corvallis, OR</h3>
