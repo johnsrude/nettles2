@@ -11,21 +11,18 @@
                 The Band</h2>
             <img src="img/laura_kevin_yachats_small.jpg" alt="The Nettles at The Yachats Celtic Festival" />
             <p>
-                Eclectic. Celtic. Folkadelic. The Nettles plays at
-                dances, festivals, concerts and clubs. Irish
-                music, Scottish music, American Oldtime, The Nettles put it all through their folkadelic
-                kaleidoscope. From <span class="locality">Corvallis</span>, <span class="region">Oregon</span>,
-                <span class="country-name">United States</span>.
+                Eclectic. Celtic. Folkadelic. From Irish
+                and international music to American Oldtime to rock music, The Nettles put it all through their folkadelic
+                kaleidoscope.
             </p>
             <p>
                 Celtic music that&rsquo;s progressive, exciting and a little bit dangerous.
                 This band ignites audiences with fiery music that blends traditional music with
-                modern spices. On fiddle, guitar, upright bass and percussion, they play
-                improvisational music based on traditional tunes, a Celtic jam
-                band.
+                modern spices. The Nettles play
+                improvisational music based on traditional tunes, a Celtic jam band that makes audiences move and groove.
             </p>
             <p>
-                The Nettles play fiery music that blends traditional Irish and American music with
+                The Nettles blend traditional Irish and American music with
                 modern spices. Laura Brophy&rsquo;s powerful fiddling forms strong yet lyrical melodies
                 punctuated by wild improvisation. The Nettles are propelled by the mighty rhythm
                 engine of Kevin Johnsrude on guitar, Michael Proctor on bass and drummer Brian
@@ -40,9 +37,8 @@
                 The Nettles joke that "We never play the same tune <em>once</em>."
             </p>
             <p>
-                The Nettles formed in 1996 from a living room jam session. Since then they have
-                played in every sort of venue, ranging from the Wintergrass Bluegrass Festival to
-                the Oregon Bach Festival to a wedding in the Opal Creek Wilderness Area to the opening
+                Since 1996 The Nettles have played in venues ranging from the Wintergrass Bluegrass Festival to
+                the Oregon Bach Festival to dance camps to a wedding in the Opal Creek Wilderness Area to the opening
                 ceremony for the Oregon Senate.
             </p>
         </div>
@@ -50,16 +46,16 @@
             <h2>
                 Photos</h2>
             <ul>
-                <li><a href="img/laura_kevin_yachats_big.jpg">
-                    <img src="img/laura_kevin_yachats_thumbnail.jpg" alt="Laura and Kevin" /></a></li>
-                <li><a href="img/Nettles_quartet.jpg">
-                    <img src="img/Nettles_quartet_thumbnail.jpg" alt="The Nettles" /></a></li>
                 <li><a href="img/laura_yachats_big.jpg">
                     <img src="img/laura_yachats_thumbnail.jpg" alt="Laura" /></a></li>
-                <li><a href="img/LauraWatercolor.jpg">
-                    <img src="img/LauraWatercolor_Thumbnail.jpg" alt="Laura" /></a></li>
                 <li><a href="img/TheNettles_Eugene_Irish_Cultural_Festival_March2014_edited.jpg">
                     <img src="img/TheNettles_Eugene_Irish_Cultural_Festival_March2014_edited_thumbnail.jpg" alt="The Nettles" /></a></li>
+                <li><a href="img/Nettles_quartet.jpg">
+                    <img src="img/Nettles_quartet_thumbnail.jpg" alt="The Nettles" /></a></li>
+                <li><a href="img/LauraWatercolor.jpg">
+                    <img src="img/LauraWatercolor_Thumbnail.jpg" alt="Laura" /></a></li>
+                <li><a href="img/laura_kevin_yachats_big.jpg">
+                    <img src="img/laura_kevin_yachats_thumbnail.jpg" alt="Laura and Kevin" /></a></li>
             </ul>
         </div>
         <div id="reviews">
@@ -228,8 +224,7 @@
                 <li>
                     <img src="img/laura7.jpg" alt="Laura Brophy" id="laura" />
                     <p>
-                        Improvisational fiddler <strong>Laura Brophy</strong> is known throughout the West
-                        for her fiery playing. She first picked up a fiddle at the age of 11 and hasn&rsquo;t
+                        Improvisational fiddler <strong>Laura Brophy</strong> is known for her fiery playing. She first picked up a fiddle at the age of 11 and hasn&rsquo;t
                         put it down since. Laura&rsquo;s distinctive technique combines lyrical melodies
                         and rhythmic innovation to give each tune a new twist. Her fiddling first enlivened
                         street jams in Minneapolis, Minnesota. After coming to Oregon in 1986 she began
@@ -292,25 +287,6 @@
                         to greater fulfillment." Brian is now King of the Groove in The Nettles.
                     </p>
                 </li>
-                <%--
-                <li>
-                    <img src="img/ankush.jpg" alt="Ankush Vimawala" id="ankush" />
-                    <p>
-                        <strong><a href="http://ankush.vimawala.com/music.html">Ankush&nbsp;Vimawala</a></strong> 
-                        is an award-winning Indian tabla player who plays in a Celtic worldbeat power trio with Kevin and Laura.
-                    </p>
-                    <p>
-                        Ankush has been studying the tabla since the age of six and holds a BA in tabla,
-                        has won many awards for his playing and has performed on All-India Radio.
-                    </p>
-                    <p>
-                        With Ankush, the trio performs improvisational music in local clubs that combines
-                        East and West in a fusion that enthralls audiences. The Nettles trio travels from
-                        Dublin to New Delhi and visits many interesting places along the way. It really
-                        has to be heard to believed. And enjoyed.
-                    </p>
-                </li>
-                --%>
             </ul>
         </div>
     </div>

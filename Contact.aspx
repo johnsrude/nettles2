@@ -16,11 +16,6 @@
                 and live shows but we also perform in the background or foreground of private parties.
             </p>
             <p>
-                We really like playing weddings. We will work with the wedding couple to provide
-                fitting music for the entire occasion, from before the processional all the way
-                through the wild party after Grandma leaves.
-            </p>
-            <p>
                 The Nettles also book tours with concerts, dances and other engagements throughout
                 the Pacific Northwest, California, and beyond.
             </p>
