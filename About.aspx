@@ -11,25 +11,25 @@
                 The Band</h2>
             <img src="img/laura_kevin_yachats_small.jpg" alt="The Nettles at The Yachats Celtic Festival" />
             <p>
-                Acoustic. Celtic. Folkadelic. The Nettles are a Celtic acoustic band that play at
-                dances, festivals, concerts and clubs in the Pacific Northwest of the USA. Irish
+                Eclectic. Celtic. Folkadelic. The Nettles plays at
+                dances, festivals, concerts and clubs. Irish
                 music, Scottish music, American Oldtime, The Nettles put it all through their folkadelic
                 kaleidoscope. From <span class="locality">Corvallis</span>, <span class="region">Oregon</span>,
                 <span class="country-name">United States</span>.
             </p>
             <p>
-                Acoustic Celtic music that&rsquo;s progressive, exciting and a little bit dangerous.
+                Celtic music that&rsquo;s progressive, exciting and a little bit dangerous.
                 This band ignites audiences with fiery music that blends traditional music with
-                modern spices. On fiddle, guitar, upright bass and percussion, they play acoustic
-                improvisational music based on traditional tunes, a sort of acoustic Celtic jam
+                modern spices. On fiddle, guitar, upright bass and percussion, they play
+                improvisational music based on traditional tunes, a Celtic jam
                 band.
             </p>
             <p>
                 The Nettles play fiery music that blends traditional Irish and American music with
                 modern spices. Laura Brophy&rsquo;s powerful fiddling forms strong yet lyrical melodies
                 punctuated by wild improvisation. The Nettles are propelled by the mighty rhythm
-                engine of Kevin Johnsrude on guitar, Michael Proctor on bass and drummers Brian
-                Bucolo, Doug Narry or Ankush Vimawala.
+                engine of Kevin Johnsrude on guitar, Michael Proctor on bass and drummer Brian
+                Bucolo.
             </p>
             <p>
                 The Nettles play for festivals, dances, bars, and weddings on the West Coast. Their
@@ -50,15 +50,13 @@
             <h2>
                 Photos</h2>
             <ul>
-                <li><a href="img/Nettles_quintet.jpg">
-                    <img src="img/Nettles_quintet_thumbnail.jpg" alt="The Nettles" id="nettles5" /></a></li>
                 <li><a href="img/laura_kevin_yachats_big.jpg">
                     <img src="img/laura_kevin_yachats_thumbnail.jpg" alt="Laura and Kevin" /></a></li>
+                <li><a href="img/Nettles_quartet.jpg">
+                    <img src="img/Nettles_quartet_thumbnail.jpg" alt="The Nettles" id="nettles5" /></a></li>
                 <li><a href="img/laura_yachats_big.jpg">
                     <img src="img/laura_yachats_thumbnail.jpg" alt="Laura" /></a></li>
-                <li><a href="img/nettlestrio_big.jpg">
-                    <img src="img/nettlestrio_thumbnail.jpg" alt="The Nettles Trio" />
-                </a></li>
+                
             </ul>
         </div>
         <div id="reviews">
