@@ -53,10 +53,13 @@
                 <li><a href="img/laura_kevin_yachats_big.jpg">
                     <img src="img/laura_kevin_yachats_thumbnail.jpg" alt="Laura and Kevin" /></a></li>
                 <li><a href="img/Nettles_quartet.jpg">
-                    <img src="img/Nettles_quartet_thumbnail.jpg" alt="The Nettles" id="nettles5" /></a></li>
+                    <img src="img/Nettles_quartet_thumbnail.jpg" alt="The Nettles" /></a></li>
                 <li><a href="img/laura_yachats_big.jpg">
                     <img src="img/laura_yachats_thumbnail.jpg" alt="Laura" /></a></li>
-                
+                <li><a href="img/LauraWatercolor.jpg">
+                    <img src="img/LauraWatercolor_Thumbnail.jpg" alt="Laura" /></a></li>
+                <li><a href="img/TheNettles_Eugene_Irish_Cultural_Festival_March2014_edited.jpg">
+                    <img src="img/TheNettles_Eugene_Irish_Cultural_Festival_March2014_edited_thumbnail.jpg" alt="The Nettles" /></a></li>
             </ul>
         </div>
         <div id="reviews">
