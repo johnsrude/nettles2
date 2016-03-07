@@ -303,6 +303,10 @@ div#members li
 	height: 100%;
 }
 
+#videos iframe {
+    padding:4px;
+}
+
 /************ Store (sidebar) ************/
 
 div#store_sidebar li

@@ -15,10 +15,10 @@
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm. Caller: William Watson</li>
                 <li>
-                    <h3>Thursday, March 10, 8pm, Corvallis, OR</h3>
+                    <h3>Thursday, March 10, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: Woody Lane
+                    lesson at 7pm. Caller: Woody Lane
                 </li>
                 <li>
                     <h3>Saturday, March 12, 3-7pm, Corvallis, OR</h3>
