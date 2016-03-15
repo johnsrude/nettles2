@@ -51,7 +51,7 @@
                 </li>
                 <li>
                     <h3>Saturday, April 16, Monterey, CA</h3>
-                    <a href="http://montereycdc.webs.com">Monterey Country Dance Community's</a> 
+                    <a href="http://montereycdc.webs.com">Monterey Country Dance Community's</a>
                     <a href="http://montereycdc.webs.com/apps/calendar/showEvent?calID=3328920&eventID=259752668&next=showMonth%3fcalID%3d3328920%26year%3d2016%26month%3d3">Spring Fling</a>
                     with Joyride and BLAM! Callers: Jean Gibson-Gorrindo, Warren Blier 
                 </li>
@@ -60,6 +60,11 @@
                     <h3>Saturday, May 14, 6pm, Corvallis, OR</h3>
                     Second Saturdays benefit concert. Sunnyside Up Cafe, 116 NW Third St. $5 donation suggested.
                 </li>
+                <li>
+                    <h3>Saturday, May 28, 8pm, Seattle, WA</h3>
+                    <a href="http://www.nwfolklife.org">Northwest Folklife Festival </a>Contra Dance,
+                    Seattle Center, Fisher Pavilion (Warren's Roadhouse). Caller: Kelsey Hartman</li>
+
                 <li>
                     <h3>Saturday, June 4, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
