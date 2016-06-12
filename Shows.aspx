@@ -74,6 +74,15 @@
                 <li>
                     <h3>July 8-10, Veneta, OR</h3>
                     <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion</li>
+
+                <li>
+                    <h3>Thursday, August 4, 6pm, Albany, OR</h3>
+                    <a href="Contact.aspx">Private party</a> </li>
+                 <li>
+                    <h3>Saturday, January 28, 8pm, Portland, OR</h3>
+                    <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
+                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
+                    Caller: TBD</li>
             </ul>
         </div>
     </div>
