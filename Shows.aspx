@@ -10,75 +10,52 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, February 27, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm. Caller: William Watson</li>
-                <li>
-                    <h3>Thursday, March 10, 7:30pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7pm. Caller: Woody Lane
-                </li>
-                <li>
-                    <h3>Saturday, March 12, 3-7pm, Corvallis, OR</h3>
-                    <a href="https://www.facebook.com/RhapsodyInTheVineyard/">Rhapsody in the Vineyard</a> wine walk,
-                    Odd Fellows Hall, 223 SW 2nd St.
-                </li>
+                    <h3>Friday, July 8, 5:45pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
 
                 <li>
-                    <h3>Sunday, March 13, 5:25pm, Milwaukie, OR</h3>
-                    <a href="http://portlandroadhouse.org">Portland Roadhouse</a>.
-                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: Marlin Prowell
-                </li>
-                <li>
-                    <h3>Thursday, March 17, 4pm, Corvallis, OR</h3>
-                    St Patrick's Day Beer Garden at <a href="http://cloudandkellys.com/">McMenamins Corvallis Pub</a>, 
-                    420 NW Third St., (541) 758-6044. </li>
-                <li>
-                    <h3>Thursday, March 17, 9pm, Corvallis, OR</h3>
-                    St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    St., 541.753.9900. </li>
+                    <h3>Saturday, July 9, 5:45pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
 
                 <li>
-                    <h3>April 8-10, Fall Creek, OR</h3>
-                    <a href="http://eugenefolklore.org/CascadeContras/">Cascade Contras</a> at  <a href="http://eugenefolklore.org/CascadeContras/venue/">Sky Camp</a>.
-                    with <a href="http://www.notoriousfolk.com/index.html">Notorious</a>. Callers: Cis Hinkle, Lindsey Miller Dono
-                </li>
-                <li>
-                    <h3>Friday, April 15, 7pm, Monterey, CA</h3>
-                    House Concert.  Potluck at 6pm.
-                </li>
-                <li>
-                    <h3>Saturday, April 16, Monterey, CA</h3>
-                    <a href="http://montereycdc.webs.com">Monterey Country Dance Community's</a>
-                    <a href="http://montereycdc.webs.com/apps/calendar/showEvent?calID=3328920&eventID=259752668&next=showMonth%3fcalID%3d3328920%26year%3d2016%26month%3d3">Spring Fling</a>
-                    with Joyride and BLAM! Callers: Jean Gibson-Gorrindo, Warren Blier 
-                </li>
-
-                <li>
-                    <h3>Saturday, May 14, 6pm, Corvallis, OR</h3>
-                    Second Saturdays benefit concert. Sunnyside Up Cafe, 116 NW Third St. $5 donation suggested.
-                </li>
-                <li>
-                    <h3>Saturday, May 28, 8pm, Seattle, WA</h3>
-                    <a href="http://www.nwfolklife.org">Northwest Folklife Festival </a>Contra Dance,
-                    Seattle Center, Fisher Pavilion (Warren's Roadhouse). Caller: Kelsey Hartman</li>
-
-                <li>
-                    <h3>Saturday, June 4, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm. Caller: Lindsey Miller Dono</li>
-
-                <li>
-                    <h3>July 8-10, Veneta, OR</h3>
-                    <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion</li>
+                    <h3>Sunday, July 10, 3:15pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
 
                 <li>
                     <h3>Thursday, August 4, 6pm, Albany, OR</h3>
                     <a href="Contact.aspx">Private party</a> </li>
-                 <li>
+
+                <li>
+                    <h3>Sunday, October 1, 7pm, Springfield, OR</h3>
+                    Ceilidh contra dance at the <a href="http://www.mckenziehighlandgames.com/">McKenzie Highland Games</a>.
+                    Caller: TBD.</li>
+
+                <li>
+                    <h3>Saturday, October 8, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
+                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
+                    Beginner&rsquo;s lesson at 7pm. Caller: TBD</li>
+
+                <li>
+                    <h3>Saturday, October 29, 2:30pm, Rickreall</h3>
+                    Polk County Folklife. Jane Keefer Main Stage, Polk County Fairgrounds.
+                </li>
+                <li>
+                    <h3>Saturday, October 29, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7pm. Caller: TBD
+                </li>
+                <li>
+                    <h3>Saturday, December 17, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7pm. Caller: TBD
+                </li>
+                <li>
                     <h3>Saturday, January 28, 8pm, Portland, OR</h3>
                     <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
                     Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
@@ -160,35 +137,6 @@
                 <li><a href="http://www.yachatscelticmusicfestival.com">Yachats Celtic Music Festival</a>,
                     Yachats, OR </li>
                 <li>Artists in Residence, Yaquina View Elementary School, Newport, OR </li>
-                <li><strong>pub and coffeehouse shows, private parties, weddings, etc.</strong></li>
-                <li>2MCE-FM, Bathurst, NSW, AUSTRALIA</li>
-                <li>Coral Coast Community Radio, Bundaberg, Queensland, AUSTRALIA</li>
-                <li>CKPC-FM, Brantford, Ontario, CANADA</li>
-                <li>CKJS, Winnipeg, Manitoba, CANADA </li>
-                <li>Gravity FM, Horncastle, Lincolnshire, ENGLAND</li>
-                <li>Heritage FM, Perth, AUSTRALIA</li>
-                <li>KASU, Memphis, TN</li>
-                <li>KBOO, Portland, OR</li>
-                <li>KBVR, Corvallis, OR</li>
-                <li>KEOS, College Station, TX</li>
-                <li>KFAI, Minneapolis, MN</li>
-                <li>KLCC, Eugene, OR</li>
-                <li>KOPN, Columbia, MO</li>
-                <li>KRVM, Eugene, OR</li>
-                <li>KSER, Everett, WA</li>
-                <li>KVMR-FM, Nevada City, CA</li>
-                <li>KXCI, Tucson, AZ</li>
-                <li>Radio ZuSa, Luneburg, Niedersachsen, GERMANY</li>
-                <li>RDP, (national), PORTUGAL</li>
-                <li>RTR-FM, Perth, AUSTRALIA</li>
-                <li>Southern FM, Melbourne, AUSTRALIA</li>
-                <li>WESS, East Stroudsburg, PA</li>
-                <li>WDIY-FM, Allentown, PA</li>
-                <li>WMPG, Portland, ME</li>
-                <li>WNMC, Traverse City, MI</li>
-                <li>WPSC, Wayne, NJ</li>
-                <li>WVUD, Newark, DE</li>
-                <li>WYMS, Milwaukee, WI</li>
             </ul>
         </div>
     </div>
