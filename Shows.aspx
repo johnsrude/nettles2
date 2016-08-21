@@ -10,28 +10,9 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Friday, July 8, 5:45pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-
-                <li>
-                    <h3>Saturday, July 9, 5:45pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-
-                <li>
-                    <h3>Sunday, July 10, 3:15pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-
-                <li>
-                    <h3>Thursday, August 4, 6pm, Albany, OR</h3>
-                    <a href="Contact.aspx">Private party</a> </li>
-
-                <li>
-                    <h3>Sunday, October 1, 7pm, Springfield, OR</h3>
-                    Ceilidh contra dance at the <a href="http://www.mckenziehighlandgames.com/">McKenzie Highland Games</a>.
-                    Caller: TBD.</li>
+                    <h3>Sunday, October 1, 12:30pm &amp; 4:40pm, Springfield, OR</h3>
+                    Two sets on the main stage at the <a href="http://www.mckenziehighlandgames.com/">McKenzie Highland Games</a>.
+                </li>
 
                 <li>
                     <h3>Saturday, October 8, 7:30pm, Eugene, OR</h3>
