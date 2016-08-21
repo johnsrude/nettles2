@@ -23,10 +23,6 @@
                  Permissions beyond the scope of this license may be available by contacting <a xmlns:cc="http://creativecommons.org/ns#" href="mailto:kevin@thenettles.com" rel="cc:morePermissions">kevin@thenettles.com</a>. 
             </p>
             <h3>CDs</h3>
-            <%--<object width='400' height='234'>
-<param name="webplayer" id="http://musiclibre.org/flash/dark_player" value='playlist_url=http://www.TheNettles.com/media/CD&rounded_corner=1&skin_color_1=-116,-20,-38,0&skin_color_2=-103,100,0,0' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer'/>
-</object>--%>
-            <%--<embed src='http://musiclibre.org/flash/dark_player' width='400' height='234' wmode='transparent' flashVars='playlist_url=http://www.TheNettles.com/media/CD&rounded_corner=1&skin_color_1=-116,-20,-38,0&skin_color_2=-103,100,0,0' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer'/>--%>
             <ul>
                 <li>
                     <a href="media/CD/FermoyLasses_Cooleys.mp3">
@@ -160,131 +156,13 @@
             <h3>Videos</h3>
             <ul>
                 <li>
-                    <%--  TODO: Switch all videos to iframe and put on separate page.
-                        <div class="videoWrapper">
-                        <iframe width="640" height="390"
-                            src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1"></iframe>
-                    </div>--%>
                     <div class="videoWrapper">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/OTij-hQdwPg" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/OTij-hQdwPg" frameborder="0" allowfullscreen></iframe>
                     </div>
                     <div class="videoWrapper">
-                        <div>
-                            <!--[if IE]>
-  	                        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="390">
-                                <param name="movie" value="http://www.youtube.com/v/v0Mff0TUNDo&amp;hl=en&amp;fs=1&amp;showinfo=1" />
-                            <![endif]-->
-                            <!--[if !IE]>-->
-                            <object type="application/x-shockwave-flash" data="http://www.youtube.com/v/v0Mff0TUNDo&amp;hl=en&amp;fs=1&amp;showinfo=1"
-                                width="480" height="295">
-                                <!--<![endif]-->
-                                <param name="quality" value="high" />
-                                <param name="wmode" value="opaque" />
-                                <p>
-                                    <a href="http://www.adobe.com/go/getflashplayer">
-                                        <img alt="Get Adobe Flash player" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a>
-                                </p>
-                            </object>
-                        </div>
+                        <iframe width="420" height="315" src="https://www.youtube.com/embed/v0Mff0TUNDo" frameborder="0" allowfullscreen></iframe>
                     </div>
-
-                    <div class="videoWrapper">
-                        <div>
-                            <!--[if IE]>
-  	                        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="390">
-                                <param name="movie" value="http://www.youtube.com/v/1PS9k2Lg4lk&amp;hl=en&amp;fs=1&amp;showinfo=1" />
-                            <![endif]-->
-                            <!--[if !IE]>-->
-                            <object type="application/x-shockwave-flash" data="http://www.youtube.com/v/1PS9k2Lg4lk&amp;hl=en&amp;fs=1&amp;showinfo=1"
-                                width="480" height="295">
-                                <!--<![endif]-->
-                                <param name="quality" value="high" />
-                                <param name="wmode" value="opaque" />
-                                <p>
-                                    <a href="http://www.adobe.com/go/getflashplayer">
-                                        <img alt="Get Adobe Flash player" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a>
-                                </p>
-                            </object>
-                        </div>
-                    </div>
-                    <div class="videoWrapper">
-                        <div>
-                            <!--[if IE]>
-  	                        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="390">
-                                <param name="movie" value="http://www.youtube.com/v/2OuOy8VSkR4&amp;hl=en&amp;fs=1&amp;showinfo=1" />
-                            <![endif]-->
-                            <!--[if !IE]>-->
-                            <object type="application/x-shockwave-flash" data="http://www.youtube.com/v/2OuOy8VSkR4&amp;hl=en&amp;fs=1&amp;showinfo=1"
-                                width="480" height="295">
-                                <!--<![endif]-->
-                                <param name="quality" value="high" />
-                                <param name="wmode" value="opaque" />
-                                <p>
-                                    <a href="http://www.adobe.com/go/getflashplayer">
-                                        <img alt="Get Adobe Flash player" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a>
-                                </p>
-                            </object>
-                        </div>
-                    </div>
-                    <div class="videoWrapper">
-                        <div>
-                            <!--[if IE]>
-  	                        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="390">
-                                <param name="movie" value="http://www.youtube.com/v/kNGeQCBBcpQ&amp;hl=en&amp;fs=1&amp;showinfo=1" />
-                            <![endif]-->
-                            <!--[if !IE]>-->
-                            <object type="application/x-shockwave-flash" data="http://www.youtube.com/v/kNGeQCBBcpQ&amp;hl=en&amp;fs=1&amp;showinfo=1"
-                                width="480" height="295">
-                                <!--<![endif]-->
-                                <param name="quality" value="high" />
-                                <param name="wmode" value="opaque" />
-                                <p>
-                                    <a href="http://www.adobe.com/go/getflashplayer">
-                                        <img alt="Get Adobe Flash player" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a>
-                                </p>
-                            </object>
-                        </div>
-                    </div>
-                    <div class="videoWrapper">
-                        <div>
-                            <!--[if IE]>
-  	                        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="390">
-                                <param name="movie" value="http://www.youtube.com/v/3iRGBRm62nM&amp;hl=en&amp;fs=1&amp;showinfo=1" />
-                            <![endif]-->
-                            <!--[if !IE]>-->
-                            <object type="application/x-shockwave-flash" data="http://www.youtube.com/v/3iRGBRm62nM&amp;hl=en&amp;fs=1&amp;showinfo=1"
-                                width="480" height="295">
-                                <!--<![endif]-->
-                                <param name="quality" value="high" />
-                                <param name="wmode" value="opaque" />
-                                <p>
-                                    <a href="http://www.adobe.com/go/getflashplayer">
-                                        <img alt="Get Adobe Flash player" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a>
-                                </p>
-                            </object>
-                        </div>
-                    </div>
-                    <div class="videoWrapper">
-                        <div>
-                            <!--[if IE]>
-  	                        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="640" height="390">
-                                <param name="movie" value="http://www.youtube.com/v/qf-VMRdrvP0&amp;hl=en&amp;fs=1&amp;showinfo=1" />
-                            <![endif]-->
-                            <!--[if !IE]>-->
-                            <object type="application/x-shockwave-flash" data="http://www.youtube.com/v/qf-VMRdrvP0&amp;hl=en&amp;fs=1&amp;showinfo=1"
-                                width="480" height="295">
-                                <!--<![endif]-->
-                                <param name="quality" value="high" />
-                                <param name="wmode" value="opaque" />
-                                <p>
-                                    <a href="http://www.adobe.com/go/getflashplayer">
-                                        <img alt="Get Adobe Flash player" src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" /></a>
-                                </p>
-                            </object>
-                        </div>
-                    </div>
-
-                </li>
+               </li>
             </ul>
         </div>
     </div>
