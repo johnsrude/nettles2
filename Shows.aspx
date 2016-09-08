@@ -10,7 +10,7 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Sunday, October 1, 12:30pm &amp; 4:40pm, Springfield, OR</h3>
+                    <h3>Saturday, October 1, 12:20pm &amp; 3:30pm, Springfield, OR</h3>
                     Two sets on the main stage at the <a href="http://www.mckenziehighlandgames.com/">McKenzie Highland Games</a>.
                 </li>
 
