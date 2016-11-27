@@ -30,6 +30,11 @@
                     Milwaukie Community Club, 10666 SE 42nd Ave. Caller: TBD
                 </li>
                 <li>
+                    <h3>Friday, March 17, 6-8pm, Corvallis, OR</h3>
+                    St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
+                    St., 541.753.9900. 
+                </li>
+                <li>
                     <h3>Saturday, March 25, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
