@@ -10,39 +10,43 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, October 1, 12:20pm &amp; 4pm, Springfield, OR</h3>
-                    Two sets on the main stage at the <a href="http://www.mckenziehighlandgames.com/">McKenzie Highland Games</a>.
-                </li>
-                <li>
-                    <h3>Saturday, October 8, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm. Caller: William Watson</li>
-                <li>
-                    <h3>Friday, October 21, 7pm, <a href="http://www.kmuz.org">KMUZ</a>, 88.5FM, Salem, OR </h3>
-                    The Nettles will be doing a live radio show on <a href="http://www.kmuz.org">KMUZ</a>. 
-                </li>
-                <li>
-                    <h3>Saturday, October 29, 2:30pm, Rickreall</h3>
-                    Polk County Folklife. Jane Keefer Main Stage, Polk County Fairgrounds.
-                </li>
-                <li>
-                    <h3>Saturday, October 29, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7pm. Caller: Noah Crunzweig
-                </li>
-                <li>
                     <h3>Saturday, December 17, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
                     lesson at 7pm. Caller: Michael Karcher
                 </li>
                 <li>
+                    <h3>Saturday, January 7, 6pm, Philomath, OR</h3>
+                    <a href="Contact.aspx">Private party</a> </li>
+                <li>
                     <h3>Saturday, January 28, 8pm, Portland, OR</h3>
                     <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
                     Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
-                    Caller: TBD</li>
+                    Caller: Noah Grunzweig
+                </li>
+                <li>
+                    <h3>Sunday, March 12, Milwaukie, OR</h3>
+                    <a href="http://portlandroadhouse.org">Portland Roadhouse</a>.
+                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: TBD
+                </li>
+                <li>
+                    <h3>Saturday, March 25, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
+                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
+                    Beginner&rsquo;s lesson at 7pm. Caller: Lindsey Miller Dono</li>
+                <li>
+                    <h3>Saturday, April 1, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7pm. Caller: Kelsey Hartman
+                </li>
+                <li>
+                    <h3>Saturday, June 17, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
+                    lesson at 7pm. Caller: TBD
+                </li>
+
             </ul>
         </div>
     </div>
