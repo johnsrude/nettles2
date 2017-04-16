@@ -10,48 +10,72 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, December 17, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, June 17, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7pm. Caller: Michael Karcher
+                    lesson at 7:30pm.
                 </li>
                 <li>
-                    <h3>Saturday, January 7, 6pm, Philomath, OR</h3>
-                    <a href="Contact.aspx">Private party</a> </li>
+                    <h3>Friday, July 7, 5:50-7pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
+
                 <li>
-                    <h3>Saturday, January 28, 8pm, Portland, OR</h3>
-                    <a href="http://www.portlandcountrydance.org/Dances.htm">Portland Country Dance Community</a>
-                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
-                    Caller: Noah Grunzweig
+                    <h3>Sunday, July 9, 12:20-1:45pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
+                <li>
+                    <h3>Sunday, July 9, 9-10:30pm, Veneta, OR</h3>
+                    After-hours contra dance for the Fair Family only at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
+                <li>
+                    <h3>Saturday, October 7, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7:30pm.
                 </li>
                 <li>
-                    <h3>Sunday, March 12, Milwaukie, OR</h3>
-                    <a href="http://portlandroadhouse.org">Portland Roadhouse</a>.
-                    Milwaukie Community Club, 10666 SE 42nd Ave. Caller: TBD
+                    <h3>Friday, October 20, 7:30pm, Seattle, WA</h3>
+                    <a href="http://seattledance.org/contra/emeraldcity">Emerald City Contra Dance</a>,
+                    <a href="http://seattledance.org/contra/emeraldcity/directions">Phinney Neighborhood Center</a>,
+                    6532 Phinney Avenue North, Seattle (98103) in the "Community Hall" (the brick building near the lower parking lot).
+                    Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
-                    <h3>Friday, March 17, 6-8pm, Corvallis, OR</h3>
+                    <h3>Saturday, October 21, 7:30pm, Tacoma, WA</h3>
+                    <a href="http://www.tacomacontradance.org">Tacoma Contra Dance</a>, 
+                    <a href="http://www.tacomacontradance.org/directions.php?location=WELLS">Wells Hall</a>,
+                    310 N K St, Tacoma, WA.
+                    Beginner&rsquo;s lesson at 7:15pm.
+                </li>
+                <li>
+                    <h3>Saturday, October 28, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
+                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
+                    Beginner&rsquo;s lesson at 7pm.</li>
+                <li>
+                    <h3>Saturday, December 16, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+                <li>
+                    <h3>Thursday, March 8, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+                <li>
+                    <h3>Saturday, March 17, Corvallis, OR</h3>
                     St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
                     St., 541.753.9900. 
                 </li>
                 <li>
-                    <h3>Saturday, March 25, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm. Caller: Lindsey Miller Dono</li>
-                <li>
-                    <h3>Saturday, April 1, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, June 2, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7pm. Caller: Kelsey Hartman
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7:30pm.
                 </li>
-                <li>
-                    <h3>Saturday, June 17, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7pm. Caller: TBD
-                </li>
-
             </ul>
         </div>
     </div>
