@@ -60,6 +60,11 @@
                     Beginner&rsquo;s lesson at 7:30pm.
                 </li>
                 <li>
+                    <h3>Saturday, February 10, 8pm, Portland, OR</h3>
+                    <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
+                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+                <li>
                     <h3>Thursday, March 8, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
