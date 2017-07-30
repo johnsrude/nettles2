@@ -19,14 +19,13 @@
                     <h3>Friday, July 7, 5:50-7pm, Veneta, OR</h3>
                     Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
                     Caller: Noah Grunzweig.</li>
-
+                <li>
+                    <h3>Friday, July 7, 9-10:45pm, Veneta, OR</h3>
+                    After-hours contra dance for the Fair Family only at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.</li>
                 <li>
                     <h3>Sunday, July 9, 12:20-1:45pm, Veneta, OR</h3>
                     Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-                <li>
-                    <h3>Sunday, July 9, 9-10:30pm, Veneta, OR</h3>
-                    After-hours contra dance for the Fair Family only at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
                     Caller: Noah Grunzweig.</li>
                 <li>
                     <h3>Saturday, October 7, 8pm, Corvallis, OR</h3>
@@ -76,7 +75,7 @@
                     St., 541.753.9900. 
                 </li>
                 <li>
-                    <h3>Saturday, June 2, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, May 19, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7:30pm.
