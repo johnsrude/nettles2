@@ -10,49 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, June 17, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. Beginner&rsquo;s
-                    lesson at 7:30pm.
-                </li>
-                <li>
-                    <h3>Friday, July 7, 5:50-7pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-                <li>
-                    <h3>Friday, July 7, 9-10:45pm, Veneta, OR</h3>
-                    After-hours contra dance for the Fair Family only at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-                <li>
-                    <h3>Sunday, July 9, 12:20-1:45pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.</li>
-                <li>
-                    <h3>Saturday, October 7, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7:30pm.
-                </li>
-                <li>
-                    <h3>Friday, October 20, 7:30pm, Seattle, WA</h3>
-                    <a href="http://seattledance.org/contra/emeraldcity">Emerald City Contra Dance</a>,
-                    <a href="http://seattledance.org/contra/emeraldcity/directions">Phinney Neighborhood Center</a>,
-                    6532 Phinney Avenue North, Seattle (98103) in the "Community Hall" (the brick building near the lower parking lot).
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Saturday, October 21, 7:30pm, Tacoma, WA</h3>
-                    <a href="http://www.tacomacontradance.org">Tacoma Contra Dance</a>, 
-                    <a href="http://www.tacomacontradance.org/directions.php?location=WELLS">Wells Hall</a>,
-                    310 N K St, Tacoma, WA.
-                    Beginner&rsquo;s lesson at 7:15pm.
-                </li>
-                <li>
-                    <h3>Saturday, October 28, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm.</li>
-                <li>
                     <h3>Saturday, December 16, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
@@ -75,6 +32,11 @@
                     St., 541.753.9900. 
                 </li>
                 <li>
+                    <h3>Saturday, May 12, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
+                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
+                    Beginner&rsquo;s lesson at 7pm.</li>
+                <li>
                     <h3>Saturday, May 19, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
@@ -83,7 +45,7 @@
             </ul>
         </div>
     </div>
-    <div id="sidebar">
+<%--    <div id="sidebar">
         <div id="past_shows">
             <h3>Past Shows</h3>
             <ul>
@@ -159,5 +121,5 @@
                 <li>Artists in Residence, Yaquina View Elementary School, Newport, OR </li>
             </ul>
         </div>
-    </div>
+    </div>--%>
 </asp:Content>
