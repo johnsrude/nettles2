@@ -10,42 +10,59 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, December 16, 8pm, Corvallis, OR</h3>
+                    <h3>Friday, July 13, 5:45pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.
+                </li>
+                <li>
+                    <h3>Sunday, July 15, 5:30pm, Veneta, OR</h3>
+                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.
+                </li>
+
+                <li>
+                    <h3>Wednesday, July 25, 6pm, Corvallis, OR</h3>
+                    <a href="http://block15.com/brewery-tap-room">Block 15 Taproom</a>,
+                    3415 SW Deschutes St.
+                </li>
+                <li>
+                    <h3>Saturday, September 15, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7:30pm.
                 </li>
                 <li>
-                    <h3>Saturday, February 10, 8pm, Portland, OR</h3>
-                    <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
-                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
-                </li>
-                <li>
-                    <h3>Thursday, March 8, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7:30pm.
-                </li>
-                <li>
-                    <h3>Saturday, March 17, Corvallis, OR</h3>
-                    St Patrick's Day Party at <a href="http://cloudandkellys.com/">Cloud & Kelly's Public House</a>, 130 SW First
-                    St., 541.753.9900. 
-                </li>
-                <li>
-                    <h3>Saturday, May 12, 7:30pm, Eugene, OR</h3>
+                    <h3>Saturday, October 13, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.</li>
+
+
+                <h2>2019</h2>
+
                 <li>
-                    <h3>Saturday, May 19, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, January 19, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7:30pm.
                 </li>
+                <li>
+                    <h3>Saturday, April 6, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+                <li>
+                    <h3>Saturday, June 1, 8pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+
             </ul>
         </div>
     </div>
-<%--    <div id="sidebar">
+    <%--    <div id="sidebar">
         <div id="past_shows">
             <h3>Past Shows</h3>
             <ul>
