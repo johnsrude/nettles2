@@ -1,5 +1,6 @@
 ﻿<%@ Page Title="The Nettles - Shows" Language="C#" MasterPageFile="~/NettlesMasterPage.master"
     AutoEventWireup="true" CodeFile="Shows.aspx.cs" Inherits="Shows" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <meta name="description" content="Come hear The Nettles! Shows past and future. Acoustic. Celtic. Folkadelic. Irish music from Corvallis, Oregon." />
 </asp:Content>
@@ -19,7 +20,11 @@
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.</li>
-
+                <li>
+                    <h3>Saturday, December 8, 8pm, Portland, OR</h3>
+                    <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
+                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
+                </li>
 
                 <h2>2019</h2>
 
@@ -38,8 +43,7 @@
                 <li>
                     <h3>Saturday, April 20, 730pm, Ashland, OR</h3>
                     <a href="http://www.socontra.org">Southern Oregon Contra Dance</a>,
-                    <a href="https://www.google.com/maps/place/1195+E+Main+St,+Ashland,+OR+97520/@42.1944826,-122.698963,17z/data=!3m1!4b1!4m5!3m4!1s0x54cf0cb1740bb5ff:0x3925f7b4edb54104!8m2!3d42.1942345!4d-122.6969259">
-                        The Grove
+                    <a href="https://www.google.com/maps/place/1195+E+Main+St,+Ashland,+OR+97520/@42.1944826,-122.698963,17z/data=!3m1!4b1!4m5!3m4!1s0x54cf0cb1740bb5ff:0x3925f7b4edb54104!8m2!3d42.1942345!4d-122.6969259">The Grove
                     </a>, 1195 E Main St
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
