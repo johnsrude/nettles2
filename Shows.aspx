@@ -9,22 +9,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Friday, July 13, 5:45pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.
-                </li>
-                <li>
-                    <h3>Sunday, July 15, 5:30pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.
-                </li>
-
-                <li>
-                    <h3>Wednesday, July 25, 6pm, Corvallis, OR</h3>
-                    <a href="http://block15.com/brewery-tap-room">Block 15 Taproom</a>,
-                    3415 SW Deschutes St.
-                </li>
-                <li>
                     <h3>Saturday, September 15, 8pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
@@ -50,6 +34,14 @@
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+                <li>
+                    <h3>Saturday, April 20, 730pm, Ashland, OR</h3>
+                    <a href="http://www.socontra.org">Southern Oregon Contra Dance</a>,
+                    <a href="https://www.google.com/maps/place/1195+E+Main+St,+Ashland,+OR+97520/@42.1944826,-122.698963,17z/data=!3m1!4b1!4m5!3m4!1s0x54cf0cb1740bb5ff:0x3925f7b4edb54104!8m2!3d42.1942345!4d-122.6969259">
+                        The Grove
+                    </a>, 1195 E Main St
+                    Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
                     <h3>Saturday, June 1, 8pm, Corvallis, OR</h3>
