@@ -53,7 +53,6 @@
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7:30pm.
                 </li>
-
             </ul>
         </div>
     </div>
@@ -90,8 +89,7 @@
                 </li>
                 <li><a href="http://www.oldfarmersball.com">Monday Contradance at The Grey Eagle, Ashville,
                     NC</a></li>
-                <li><a href="http://www.harvestmoonfolk.org/schedule.htm">Harvest Moon Folk Society
-                    contra dance</a>, River Falls, SC</li>
+                <li><a href="http://www.harvestmoonfolk.org/schedule.htm">Harvest Moon Folk Society contra dance</a>, River Falls, SC</li>
                 <li><a href="http://www.ladyofthelake.org/">Lady of the Lake</a> Family Week, Henderson,
                     ID</li>
                 <li><a href="http://eugenefolklore.org/madness.html">MidSummer Madness</a>, Springfield,
