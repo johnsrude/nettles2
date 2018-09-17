@@ -10,10 +10,10 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, September 15, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, September 15, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7:30pm.
+                    Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
                     <h3>Saturday, October 13, 7:30pm, Eugene, OR</h3>
@@ -29,29 +29,29 @@
                 <h2>2019</h2>
 
                 <li>
-                    <h3>Saturday, January 19, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, January 19, 7:30pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7pm.
+                </li>
+                <li>
+                    <h3>Saturday, April 6, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7:30pm.
                 </li>
                 <li>
-                    <h3>Saturday, April 6, 8pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7:30pm.
-                </li>
-                <li>
-                    <h3>Saturday, April 20, 730pm, Ashland, OR</h3>
+                    <h3>Saturday, April 20, 7:30pm, Ashland, OR</h3>
                     <a href="http://www.socontra.org">Southern Oregon Contra Dance</a>,
                     <a href="https://www.google.com/maps/place/1195+E+Main+St,+Ashland,+OR+97520/@42.1944826,-122.698963,17z/data=!3m1!4b1!4m5!3m4!1s0x54cf0cb1740bb5ff:0x3925f7b4edb54104!8m2!3d42.1942345!4d-122.6969259">The Grove
                     </a>, 1195 E Main St
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
-                    <h3>Saturday, June 1, 8pm, Corvallis, OR</h3>
+                    <h3>Saturday, June 1, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7:30pm.
+                    Beginner&rsquo;s lesson at 7pm.
                 </li>
             </ul>
         </div>
