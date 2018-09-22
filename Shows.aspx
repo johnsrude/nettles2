@@ -53,6 +53,18 @@
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
+                <li>
+                    <h3>Friday, September 20, 7:30pm, Seattle, WA</h3>
+                    <a href="http://seattledance.org/contra/emeraldcity">Emerald City Contra Dance</a>,
+                    6532 Phinney Avenue North in the "Community Hall" (the brick building near the lower parking lot)
+                    Beginner&rsquo;s lesson at 7pm.
+                </li>
+                <li>
+                    <h3>Saturday, September 21, 7:30pm, Tacoma, WA</h3>
+                    <a href="http://tacomacontradance.org/">Tacoma Contra Dance</a>,
+                   Christ Church Wells Hall, 310 North K St.
+                    Beginner&rsquo;s lesson at 7pm.
+                </li>
             </ul>
         </div>
     </div>
