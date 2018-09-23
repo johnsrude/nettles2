@@ -26,7 +26,7 @@
             <ul>
                 <li>
                     <h4><a href="media/Nettles_at_EFS_Feb2014_LongGoneClip.mp3">Long Gone</a></h4>
-                    <cite>"Long Gone" by <a href="http://www.larryunger.net/">Larry Unger</a>. The Nettles at Eugene Folklore Society contra dance, February 2014</cite></li>
+                    <cite> by George Paul. The Nettles at Eugene Folklore Society contra dance, February 2014</cite></li>
                 <li>
                     <h4><a href="media/Nettles_at_EFS_Feb2014_DevilClip.mp3">Devil in the Strawstack</a></h4>
                     <cite>The Nettles at Eugene Folklore Society contra dance, February 2014.</cite></li>
