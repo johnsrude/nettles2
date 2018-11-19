@@ -35,6 +35,20 @@
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
+                    <h3>Saturday, February 9, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
+                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
+                    Beginner&rsquo;s lesson at 7pm.</li>
+                <li>
+                    <h3>Sunday, Monday, March 10, Milwaukie, OR</h3>
+                    <a href="http://portlandroadhouse.org">Portland Roadhouse</a> contra dance.  Milwaukie Community Center, 10666 SE 42nd
+                </li>
+                <li>
+                    <h3>Sunday, March 17, Corvallis, OR</h3>
+                    St Patrick's Day Party at <a href="https://downtown.drinkthedog.com/">Downward Dog</a>, 130 SW First
+                    St., 541.753.9900. 
+                </li>
+                <li>
                     <h3>Saturday, April 6, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
@@ -52,6 +66,38 @@
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7pm.
+                </li>
+                <li>
+                    <h3>Thursday, June 13, 8pm, Asheville, NC</h3>
+                    <a href="http://oldfarmersball.com/">Old Farmers Ball.</a>
+                </li>
+                <li>
+                    <h3>Friday, June 14, 8pm, Nashville, TN</h3>
+                    <a href="http://nashvillecountrydancers.org/">Nashville Country Dancers</a> contra dance. Second Presbyterian Church, 3511 Belmont Blvd
+                </li>
+                <li>
+                    <h3>Saturday, June 15, 8pm, Taylors, SC</h3>
+                    <a href="http://www.harvestmoonfolk.org">Harvest Moon Folk Society</a> contra dance.  Landmark Hall, 156 Landmark Dr.
+                </li>
+                <li>
+                    <h3>Monday, June 17, 7pm, Harrisonburg, VA</h3>
+                    <a href="https://shenandoahvalleycontradance.weebly.com">Shenandoah Valley Contra Dance</a>. Massanetta Springs Conference Center, 712 Massanetta Springs Rd.
+                </li>
+                <li>
+                    <h3>Wednesday, June 19, 8pm, Baltimore, MD</h3>
+                    <a href="http://www.bfms.org/">Baltimore Folk Music Society</a> contra dance.  Lovely Lane United Methodist Church, 2200 St. Paul Street.
+                </li>
+                <li>
+                    <h3>Friday, June 21, 8:30pm, Glen Echo, MD</h3>
+                    <a href="http://fridaynightdance.org/">Friday Night Dancers</a> contra dance. Bumper Car Pavilion, 7300 MacArthur Boulevard.
+                </li>
+                <li>
+                    <h3>Saturday, June 22, 7:30pm, Richmond, VA</h3>
+                    <a href="https://tadamsva.org/">Richmond Saturday Contra Dance</a>. Lewis Ginter Recreation Center, 3421 Hawthorne Ave.
+                </li>
+                <li>
+                    <h3>Sunday, June 23, 7:30pm, Glen Echo, MD</h3>
+                    <a href="https://www.fsgw.org/sunday-contra-square-dance">Folklore Society of Greater Washington</a> contra dance. Bumper Car Pavilion, 7300 MacArthur Boulevard.
                 </li>
                 <li>
                     <h3>Friday, September 20, 7:30pm, Seattle, WA</h3>
