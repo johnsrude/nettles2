@@ -10,25 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, September 15, 7:30pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Saturday, October 13, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm.</li>
-                <li>
-                    <h3>Saturday, December 8, 8pm, Portland, OR</h3>
-                    <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
-                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
-                </li>
-
-                <h2>2019</h2>
-
-                <li>
                     <h3>Saturday, January 19, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
@@ -44,7 +25,7 @@
                     <a href="http://portlandroadhouse.org">Portland Roadhouse</a> contra dance.  Milwaukie Community Center, 10666 SE 42nd
                 </li>
                 <li>
-                    <h3>Sunday, March 17, Corvallis, OR</h3>
+                    <h3>Saturday, March 16, 6pm, Corvallis, OR</h3>
                     St Patrick's Day Party at <a href="https://downtown.drinkthedog.com/">Downward Dog</a>, 130 SW First
                     St., 541.753.9900. 
                 </li>
@@ -98,6 +79,12 @@
                 <li>
                     <h3>Sunday, June 23, 7:30pm, Glen Echo, MD</h3>
                     <a href="https://www.fsgw.org/sunday-contra-square-dance">Folklore Society of Greater Washington</a> contra dance. Bumper Car Pavilion, 7300 MacArthur Boulevard.
+                </li>
+                <li>
+                    <h3>Thursday, September 19, 7:30pm, Seattle, WA</h3>
+                    <a href="http://seattledance.org/contra.lakecity">Lake City Contra Dance</a>,
+                    Seattle Latvian Center, 11710 3rd Ave NE.
+                    Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
                     <h3>Friday, September 20, 7:30pm, Seattle, WA</h3>
