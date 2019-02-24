@@ -21,7 +21,7 @@
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.</li>
                 <li>
-                    <h3>Sunday, Monday, March 10, Milwaukie, OR</h3>
+                    <h3>Sunday, March 10, 6:40pm, Milwaukie, OR</h3>
                     <a href="http://portlandroadhouse.org">Portland Roadhouse</a> contra dance.  Milwaukie Community Center, 10666 SE 42nd
                 </li>
                 <li>
