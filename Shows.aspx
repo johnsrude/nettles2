@@ -98,13 +98,17 @@
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.</li>
-
                 <li>
-                    <h3>Saturday, January 18, 7:30pm, Corvallis, OR</h3>
+                    <h3>Saturday, January 18, 2020, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
+                <li>
+                    <h3>Saturday, March 28, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
+                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
+                    Beginner&rsquo;s lesson at 7pm.</li>
 
             </ul>
         </div>
