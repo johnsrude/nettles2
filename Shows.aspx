@@ -8,7 +8,7 @@
     <div id="main">
         <div id="shows">
             <h2>Shows</h2>
-            <ul>
+            <ul> 
                 <li>
                     <h3>Thursday, September 19, 7:30pm, Seattle, WA</h3>
                     <a href="http://seattledance.org/contra.lakecity">Lake City Contra Dance</a>,
