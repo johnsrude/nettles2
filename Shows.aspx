@@ -10,66 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Thursday, June 13, 8pm, Swannanoa, NC</h3>
-                    <a href="http://oldfarmersball.com/">Old Farmers Ball.</a>
-                    Warren Wilson College, Bryson Gym, 701 Warren Wilson Road. 
-                    Beginner&rsquo;s lesson at 7:30pm.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Friday, June 14, 8pm, Nashville, TN</h3>
-                    <a href="http://nashvillecountrydancers.org/">Nashville Country Dancers</a>
-                    contra dance. Second Presbyterian Church, 3511 Belmont Blvd
-                    Beginner&rsquo;s lesson at 7:30pm.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Saturday, June 15, 7:30pm, Marietta, SC</h3>
-                    <a href="http://www.harvestmoonfolk.org">Harvest Moon Folk Society</a> contra dance.  
-                     River Falls Lodge  River Falls Lodge Rd, Marietta, SC
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Monday, June 17, 7pm, Harrisonburg, VA</h3>
-                    <a href="https://shenandoahvalleycontradance.weebly.com">Shenandoah Valley Contra Dance</a>. 
-                    Massanetta Springs Conference Center, 712 Massanetta Springs Rd.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Wednesday, June 19, 8pm, Baltimore, MD</h3>
-                    <a href="http://www.bfms.org/">Baltimore Folk Music Society</a> contra dance.  
-                    Lovely Lane United Methodist Church, 2200 St. Paul Street.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Friday, June 21, 8:30pm, Glen Echo, MD</h3>
-                    <a href="http://fridaynightdance.org/">Friday Night Dancers</a> contra dance. 
-                    Bumper Car Pavilion, 7300 MacArthur Boulevard.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Saturday, June 22, 7:30pm, Richmond, VA</h3>
-                    <a href="https://tadamsva.org/">Richmond Saturday Contra Dance</a>. 
-                    Lewis Ginter Recreation Center, 3421 Hawthorne Ave.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Sunday, June 23, 7:30pm, Glen Echo, MD</h3>
-                    <a href="https://www.fsgw.org/sunday-contra-square-dance">Folklore Society of Greater Washington</a> contra dance. 
-                    Bumper Car Pavilion, 7300 MacArthur Boulevard.
-                    Caller: Kelsey Hartman.
-                </li>
-                <li>
-                    <h3>Friday, July 12, 5:45pm, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.
-                </li>
-                <li>
-                    <h3>Saturday, July 13, 11am, Veneta, OR</h3>
-                    Contra dance at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
-                    Caller: Noah Grunzweig.
-                </li>
-                <li>
                     <h3>Thursday, September 19, 7:30pm, Seattle, WA</h3>
                     <a href="http://seattledance.org/contra.lakecity">Lake City Contra Dance</a>,
                     Seattle Latvian Center, 11710 3rd Ave NE.
@@ -97,7 +37,9 @@
                     <h3>Saturday, October 26, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm.</li>
+                    Beginner&rsquo;s lesson at 7pm.
+
+                </li>
                 <li>
                     <h3>Saturday, January 18, 2020, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
@@ -105,10 +47,22 @@
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
+                    <h3>Saturday, February 8, 8pm, Portland, OR</h3>
+                    <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
+                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
+                </li>
+
+                <li>
                     <h3>Saturday, March 28, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
                     of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.</li>
+                <li>
+                    <h3>Saturday, June 6, 7:30pm, Corvallis, OR</h3>
+                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7pm.
+                </li>
 
             </ul>
         </div>
