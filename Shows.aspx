@@ -8,38 +8,7 @@
     <div id="main">
         <div id="shows">
             <h2>Shows</h2>
-            <ul> 
-                <li>
-                    <h3>Thursday, September 19, 7:30pm, Seattle, WA</h3>
-                    <a href="http://seattledance.org/contra.lakecity">Lake City Contra Dance</a>,
-                    Seattle Latvian Center, 11710 3rd Ave NE.
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Friday, September 20, 7:30pm, Seattle, WA</h3>
-                    <a href="http://seattledance.org/contra/emeraldcity">Emerald City Contra Dance</a>,
-                    6532 Phinney Avenue North in the "Community Hall" (the brick building near the lower parking lot)
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Saturday, September 21, 7:30pm, Tacoma, WA</h3>
-                    <a href="http://tacomacontradance.org/">Tacoma Contra Dance</a>,
-                   Christ Church Wells Hall, 310 North K St.
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Saturday, October 5, 7:30pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Saturday, October 26, 7:30pm, Eugene, OR</h3>
-                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
-                    of the former Dunn School, <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
-                    Beginner&rsquo;s lesson at 7pm.
-
-                </li>
+            <ul>
                 <li>
                     <h3>Saturday, January 18, 2020, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
@@ -51,7 +20,15 @@
                     <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
                     Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
                 </li>
-
+                <li>
+                    <h3>Sunday, March 15,  Milwaukie, OR</h3>
+                    <a href="http://portlandroadhouse.org">Portland Roadhouse</a> contra dance.  
+                    Milwaukie Community Center, 10666 SE 42nd.  Time TBD.
+                </li>
+                <li>
+                    <h3>Tuesday, March 17, Corvallis, OR</h3>
+                    The Nettles celebrate St Patrick's Day on First Ave.  Time TBD.
+                </li>
                 <li>
                     <h3>Saturday, March 28, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, Gym
@@ -61,6 +38,12 @@
                     <h3>Saturday, June 6, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Beginner&rsquo;s lesson at 7pm.
+                </li>
+                <li>
+                    <h3>Saturday, October 24, 7:30pm, Eugene, OR</h3>
+                    <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, The Village School, 
+                    <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
 
