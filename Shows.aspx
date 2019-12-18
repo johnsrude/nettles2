@@ -63,6 +63,13 @@
                     <a href="http://twilighttwirl.com/">Twilight Twirl</a>.
                     4 bands! 4 callers! 10 hours of dancing!
                 </li>
+                                </li>
+                <li>
+                    <h3>Saturday, November 8, 3:30pm, Tacoma, WA</h3>
+                    <a href="http://tacomacontradance.org/">Tacoma Contra Dance</a>,
+                   Christ Church Wells Hall, 310 North K St.
+                    Beginner&rsquo;s lesson at 3pm.
+                </li>
 
             </ul>
         </div>
