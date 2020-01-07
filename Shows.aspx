@@ -76,7 +76,7 @@
                     Beginner&rsquo;s lesson at 3pm.
                 </li>
                 <li>
-                    <h3>Saturday, April 2, 7:30pm, Corvallis, OR</h3>
+                    <h3>Saturday, April 3, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
                     Beginner&rsquo;s lesson at 7pm.
