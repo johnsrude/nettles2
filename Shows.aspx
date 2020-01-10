@@ -12,7 +12,7 @@
                 <li>
                     <h3>Saturday, January 18, 2020, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
+                    Ballroom, Oregon State University Memorial Union, 2501 SW Jefferson Way, Corvallis, OR 97331 
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
