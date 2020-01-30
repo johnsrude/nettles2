@@ -5,7 +5,7 @@
     <meta name="description" content="Come hear The Nettles! Shows past and future. Acoustic. Celtic. Folkadelic. Irish music from Corvallis, Oregon." />
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
-    <div id="main">
+    <div id="oneColumnMain">
         <div id="shows">
             <h2>Shows</h2>
             <ul>
