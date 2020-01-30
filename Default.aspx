@@ -55,7 +55,7 @@
             <h3>
                 Keep in Touch</h3>
             <ul>
-                <li><a href="http://eepurl.com/csuz1">Subscribe to monthly email newsletter</a></li>
+                <%--<li><a href="http://eepurl.com/csuz1">Subscribe to monthly email newsletter</a></li>--%>
                 <li><a href="http://www.facebook.com/folkadelic">
                     <img src="img/facebook.png" alt="Facebook" />Facebook</a></li>
                 <li><a href="http://twitter.com/TheNettlesBand">
