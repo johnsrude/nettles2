@@ -19,10 +19,6 @@
             <h2>
                 News</h2>
             <ul>
-                <li>This just in from the <a href="https://www.facebook.com/groups/62950211264/">Portland
-                    Country Dance Community</a>:
-                    <br />
-                    <i>"The Nettles! Next week! Eeeeee!"</i> </li>
                 <li><a class="twitter-timeline" href="https://twitter.com/TheNettlesBand" data-widget-id="356534798329708548"
                     data-link-color="#993366" data-chrome="transparent noheader nofooter noborders noscrollbar">
                     Tweets by @TheNettlesBand</a>

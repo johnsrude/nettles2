@@ -75,6 +75,9 @@
                    Christ Church Wells Hall, 310 North K St.
                     Beginner&rsquo;s lesson at 3pm.
                 </li>
+            </ul>
+            <h2>2021</h2>
+            <ul>
                 <li>
                     <h3>Saturday, April 3, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
