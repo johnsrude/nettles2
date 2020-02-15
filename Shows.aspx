@@ -6,22 +6,17 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div id="oneColumnMain">
-        <div id="shows">
+        <div id="shows">s
             <h2>Shows</h2>
             <ul>
-                <li>
-                    <h3>Saturday, February 8, 8pm, Portland, OR</h3>
-                    <a href="http://www.portlandcountrydance.org">Portland Country Dance Community</a>
-                    Contra Dance, Fulton Community Center, 68 SW Miles. Beginner&rsquo;s lesson at 7:30pm.
-                </li>
                 <li>
                     <h3>Saturday, March 14, Corvallis, OR</h3>
                     The Nettles celebrate St Patrick's Day on First Ave.  Time TBD.
                 </li>
                 <li>
-                    <h3>Sunday, March 15,  Milwaukie, OR</h3>
+                    <h3>Sunday, March 15, 4:10-5:15pm, Milwaukie, OR</h3>
                     <a href="http://portlandroadhouse.org">Portland Roadhouse</a> contra dance.  
-                    Milwaukie Community Center, 10666 SE 42nd.  Time TBD.
+                    Milwaukie Community Center, 10666 SE 42nd. 
                 </li>
                 <li>
                     <h3>Saturday, March 28, 7:30pm, Eugene, OR</h3>
