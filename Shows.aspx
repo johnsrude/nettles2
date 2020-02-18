@@ -6,7 +6,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div id="oneColumnMain">
-        <div id="shows">s
+        <div id="shows">
             <h2>Shows</h2>
             <ul>
                 <li>
@@ -59,7 +59,7 @@
                     4 bands! 4 callers! 10 hours of dancing!
                 </li>
                 <li>
-                    <h3>Saturday, November 8, 3:30pm, Tacoma, WA</h3>
+                    <h3>Sunday, November 8, 3:30pm, Tacoma, WA</h3>
                     <a href="http://tacomacontradance.org/">Tacoma Contra Dance</a>,
                    Christ Church Wells Hall, 310 North K St.
                     Beginner&rsquo;s lesson at 3pm.
@@ -67,6 +67,11 @@
             </ul>
             <h2>2021</h2>
             <ul>
+                <li>
+                    <h3>Friday-Sunday, February 12-14, Corvallis, OR</h3>
+                    <a href="https://corvallisfolklore.org/ccw/">Corvallis Contra Weekend</a>,
+                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road.
+                </li>
                 <li>
                     <h3>Saturday, April 3, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
