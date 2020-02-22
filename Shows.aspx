@@ -10,8 +10,8 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, March 14, Corvallis, OR</h3>
-                    The Nettles celebrate St Patrick's Day on First Ave.  Time TBD.
+                    <h3>Saturday, March 14, 5-7pm, Corvallis, OR</h3>
+                    The Nettles celebrate St Patrick's Day on First St.
                 </li>
                 <li>
                     <h3>Sunday, March 15, 4:10-5:15pm, Milwaukie, OR</h3>
