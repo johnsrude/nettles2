@@ -11,13 +11,18 @@
             <ul>
                 <li>
                     <h3>Saturday, March 14, 5-7pm, Corvallis, OR</h3>
-                    The Nettles celebrate St Patrick's Day on First St.
+                    The Nettles celebrate St Patrick's Day at the Pig & Olive on First St.
                 </li>
                 <li>
                     <h3>Saturday, March 28, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, The Village School, 
                     <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
                     Beginner&rsquo;s lesson at 7pm.</li>
+                <li>
+                    <h3>Sunday, May 24, 7pm, Seattle, WA</h3>
+                    <a href="http://www.nwfolklife.org">Northwest Folklife Festival </a>Contra Dance,
+                    Seattle Center, Fisher Pavilion (Warren's Roadhouse).</li>
+
                 <li>
                     <h3>Saturday, June 6, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
