@@ -14,11 +14,6 @@
                     The Nettles celebrate St Patrick's Day on First St.
                 </li>
                 <li>
-                    <h3>Sunday, March 15, 4:10-5:15pm, Milwaukie, OR</h3>
-                    <a href="http://portlandroadhouse.org">Portland Roadhouse</a> contra dance.  
-                    Milwaukie Community Center, 10666 SE 42nd. 
-                </li>
-                <li>
                     <h3>Saturday, March 28, 7:30pm, Eugene, OR</h3>
                     <a href="http://www.eugenefolklore.org/htm/efs-contradances.htm">Eugene Folklore Society Contra Dance</a>, The Village School, 
                     <a href="http://g.co/maps/c3m73">3411 Willamette St.</a>
