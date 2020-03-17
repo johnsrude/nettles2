@@ -21,6 +21,11 @@
                     Beginner&rsquo;s lesson at 7pm.
                 </li>
                 <li>
+                    <h3>Sunday, July 10-12, Veneta, OR</h3>
+                    Contra dances at the <a href="http://oregoncountryfair.org">Oregon Country Fair</a> Dance Pavilion.
+                    Caller: Noah Grunzweig.
+                </li>
+                <li>
                     <h3>Saturday, September 19, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
