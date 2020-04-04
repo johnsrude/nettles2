@@ -10,11 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Sunday, May 24, 7pm, Seattle, WA</h3>
-                    <a href="http://www.nwfolklife.org">Northwest Folklife Festival </a>Contra Dance,
-                    Seattle Center, Fisher Pavilion (Warren's Roadhouse).</li>
-
-                <li>
                     <h3>Saturday, June 6, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
