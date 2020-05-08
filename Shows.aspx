@@ -10,12 +10,6 @@
             <h2>Shows</h2>
             <ul>
                 <li>
-                    <h3>Saturday, June 6, 7:30pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
                     <h3>Saturday, September 19, 7:30pm, Corvallis, OR</h3>
                     <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
                     Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
