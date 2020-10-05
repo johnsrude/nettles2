@@ -8,26 +8,7 @@
     <div id="oneColumnMain">
         <div id="shows">
             <h2>Shows</h2>
-            <h2>2021</h2>
-            <ul>
-                <li>
-                    <h3>Friday-Sunday, February 12-14, Corvallis, OR</h3>
-                    <a href="https://corvallisfolklore.org/ccw/">Corvallis Contra Weekend</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road.
-                </li>
-                <li>
-                    <h3>Saturday, April 3, 7:30pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-                <li>
-                    <h3>Saturday, May 15, 7:30pm, Corvallis, OR</h3>
-                    <a href="http://corvallisfolklore.org/home/contradancing/">Corvallis Folklore Society Contra Dance</a>,
-                    Gatton Hall, First Congregational Church, 4515 SW West Hills Road. 
-                    Beginner&rsquo;s lesson at 7pm.
-                </li>
-            </ul>
+            <h2>Cancelled due to COVID-19</h2>
         </div>
     </div>
 </asp:Content>
